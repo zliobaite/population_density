@@ -1,0 +1,911 @@
+Order	Genus	species	Taxon	Phyname	Family	V1	V2	HYP	AA	GO	SF	OT	BU	AL	OL	How scored	Notes	MASS	MASS_our	Mass_Phy	Mass_bm	Mass_Juha1	Mass_Juha2	Mass_Dam	Comments
+Artiodactyla	Antilocapra	americana	Antilocapra americana	Antilocapra_americana_Centroid	Antilocapridae	Antilocapra	Antilocapridae	3	0	1	0	0	0	1	1	old scores		45.4	45.4	46.1	45.4	51	47.45001	46.5	
+Artiodactyla	Capromeryx	minor	Capromeryx minor	Capromeryx_minor_Centroid	Antilocapridae	Capromeryx	Antilocapridae	3	0	1	0	0	0	1	1	pictures		10.5	NA	10.5	NA	NA	NA	NA	
+Artiodactyla	Stockoceros	conklingi	Stockoceros conklingi	Stockoceros_conklingi_Centroid	Antilocapridae	Stockoceros	Antilocapridae	3	0	1	0	0	0	1	1	by family (only horns)		51	NA	51	NA	NA	NA	NA	
+Artiodactyla	Tetrameryx	shuleri	Tetrameryx shuleri	Tetrameryx_shuleri_Centroid	Antilocapridae	Tetrameryx	Antilocapridae	3	0	1	0	0	0	1	1	by family		60	NA	60	NA	NA	NA	NA	
+Artiodactyla	Addax	nasomaculatus	Addax nasomaculatus	Addax_nasomaculatus_Centroid	Bovidae	Addax	Bovidae	3	0	0	1	0	0	0	1	MUSEUMS sheet		90	90	70	111	121	96.07736	NA	
+Artiodactyla	Aepyceros	melampus	Aepyceros melampus	Aepyceros_melampus_Centroid	Bovidae	Aepyceros	Bovidae	3	0	1	0	0	0	1	1	old scores		51	51	52.5	51	54	52.59169	52.4	
+Artiodactyla	Alcelaphus	buselaphus	Alcelaphus buselaphus	Alcelaphus_buselaphus_Centroid	Bovidae	Alcelaphus	Bovidae	3	0	0	0	1	0	0	1	MUSEUMS sheet		150	150	171	150	150	160.93786	158	
+Artiodactyla	Ammodorcas	clarkei	Ammodorcas clarkei	Ammodorcas_clarkei_Centroid	Bovidae	Ammodorcas	Bovidae	3	1	0	0	0	0	1	0	old scores		28	28	28	28	28.5	28.04981	31	
+Artiodactyla	Ammotragus	lervia	Ammotragus lervia	Ammotragus_lervia_Centroid	Bovidae	Ammotragus	Bovidae	3	0	1	0	0	0	1	1	old scores		61	61	48	81.7	94.5	94.20222	NA	
+Artiodactyla	Antidorcas	australis	Antidorcas australis	Antidorcas_australis_Centroid	Bovidae	Antidorcas	Bovidae	3	0	1	0	0	0	1	1	old scores		40	40	40	NA	NA	NA	NA	
+Artiodactyla	Antidorcas	bondi	Antidorcas bondi	Antidorcas_bondi_Centroid	Bovidae	Antidorcas	Bovidae	3	0	1	0	0	0	1	1	old scores		34	34	34	NA	NA	NA	NA	
+Artiodactyla	Antidorcas	marsupialis	Antidorcas marsupialis	Antidorcas_marsupialis_Centroid	Bovidae	Antidorcas	Bovidae	3	0	1	0	0	0	1	1	old scores		31	31	31.5	31	37.5	33.57124	31.8	
+Artiodactyla	Antilope	cervicapra	Antilope cervicapra	Antilope_cervicapra_Centroid	Bovidae	Antilope	Bovidae	3	1	0	0	0	0	1	0	old scores		37.3	37.3	37.5	37.3	38.5	36.3011	29.8	
+Artiodactyla	Arabitragus	jayakari	Arabitragus jayakari	Arabitragus_jayakari_Centroid	Bovidae	Arabitragus	Bovidae	3	0	1	0	0	0	1	1	old scores		23	23	23	NA	NA	NA	NA	
+Artiodactyla	Beatragus	hunteri	Beatragus hunteri	Beatragus_hunteri_Centroid	Bovidae	Beatragus	Bovidae	3	0	0	0	1	0	0	1			85	85	80	85	112.5	79.13217	NA	
+Artiodactyla	Bison	bison	Bison bison	Bison_bison_Centroid	Bovidae	Bison	Bovidae	3	0	0	0	1	0	0	1	IZ Hel 2022 Oct		624	624	579.3	624	659	624.57707	551	
+Artiodactyla	Bison	bonasus	Bison bonasus	Bison_bonasus_Centroid	Bovidae	Bison	Bovidae	3	0	0	0	1	0	0	1	IZ Hel 2022 Oct		570	570	500	570	625	675.8767	850	
+Artiodactyla	Bootherium	bombifrons	Bootherium bombifrons	Bootherium_bombifrons_Centroid	Bovidae	Bootherium	Bovidae	3	0	1	0	0	0	1	1			300	300	300	NA	NA	NA	NA	
+Artiodactyla	Bos	gaurus	Bos gaurus	Bos_gaurus_Centroid	Bovidae	Bos	Bovidae	3	0	0	1	1	0	0	1			882	882	825	882	NA	NA	568	
+Artiodactyla	Bos	javanicus	Bos javanicus	Bos_javanicus_Centroid	Bovidae	Bos	Bovidae	3	0	0	1	1	0	0	1			600	600	700	600	650	635.97434	263	
+Artiodactyla	Bos	mutus	Bos mutus	Bos_mutus_Centroid	Bovidae	Bos	Bovidae	3	0	0	1	1	0	0	1			550	550	546.2	NA	NA	NA	NA	
+Artiodactyla	Bos	primigenius	Bos primigenius	Bos_primigenius_Centroid	Bovidae	Bos	Bovidae	3	0	0	1	1	0	0	1			900	900	900	NA	NA	NA	NA	
+Artiodactyla	Bos	sauveli	Bos sauveli	Bos_sauveli_Centroid	Bovidae	Bos	Bovidae	3	0	0	1	1	0	0	1			800	800	800	800	795.5	791.32176	NA	
+Artiodactyla	Boselaphus	tragocamelus	Boselaphus tragocamelus	Boselaphus_tragocamelus_Centroid	Bovidae	Boselaphus	Bovidae	2	0	0	1	1	0	0	1			195	195	169	195	207.5	182.25304	149	
+Artiodactyla	Bubalus	arnee	Bubalus arnee	Bubalus_arnee_Centroid	Bovidae	Bubalus	Bovidae	3	0	0	1	0	0	0	1			725	725	725	NA	NA	NA	NA	
+Artiodactyla	Bubalus	depressicornis	Bubalus depressicornis	Bubalus_depressicornis_Centroid	Bovidae	Bubalus	Bovidae	3	0	0	1	0	0	0	1			158	158	88	150	195	256.98927	NA	
+Artiodactyla	Bubalus	grovesi	Bubalus grovesi	Bubalus_grovesi_Centroid	Bovidae	Bubalus	Bovidae	3	0	0	1	0	0	0	1			117	117	117	NA	NA	NA	NA	
+Artiodactyla	Bubalus	mindorensis	Bubalus mindorensis	Bubalus_mindorensis_Centroid	Bovidae	Bubalus	Bovidae	3	0	0	1	0	0	0	1			233	233	224	233	240	254.38974	NA	
+Artiodactyla	Bubalus	palaeokerabau	Bubalus palaeokerabau	Bubalus_palaeokerabau_Centroid	Bovidae	Bubalus	Bovidae	3	0	0	1	0	0	0	1			1130	1130	1125.9	NA	NA	NA	NA	
+Artiodactyla	Bubalus	quarlesi	Bubalus quarlesi	Bubalus_quarlesi_Centroid	Bovidae	Bubalus	Bovidae	3	0	0	1	0	0	0	1			225	225	76	225	225	181.71886	NA	
+Artiodactyla	Budorcas	taxicolor	Budorcas taxicolor	Budorcas_taxicolor_Centroid	Bovidae	Budorcas	Bovidae	3	0	1	0	0	0	1	1			250	250	302	250	275	294.51533	NA	
+Artiodactyla	Capra	aegagrus	Capra aegagrus	Capra_aegagrus_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			39	39	33.5	39.2	NA	NA	75	
+Artiodactyla	Capra	caucasica	Capra caucasica	Capra_caucasica_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			55	55	55	55	96.8	58.14952	NA	
+Artiodactyla	Capra	cylindricornis	Capra cylindricornis	Capra_cylindricornis_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			50	50	50	50	NA	NA	NA	
+Artiodactyla	Capra	falconeri	Capra falconeri	Capra_falconeri_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			41	41	41	41	71	54.30337	NA	
+Artiodactyla	Capra	ibex	Capra ibex	Capra_ibex_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			72	72	85.2	71.5	92.5	69.54683	NA	
+Artiodactyla	Capra	nubiana	Capra nubiana	Capra_nubiana_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			65	65	62.6	65	52	47.76372	NA	
+Artiodactyla	Capra	pyrenaica	Capra pyrenaica	Capra_pyrenaica_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			56	56	50	56.3	77.5	60.89877	NA	
+Artiodactyla	Capra	sibirica	Capra sibirica	Capra_sibirica_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			80	80	130	67.1	80	130	NA	
+Artiodactyla	Capra	walie	Capra walie	Capra_walie_Centroid	Bovidae	Capra	Bovidae	3	0	1	0	0	0	1	1			101	101	100	101	102.5	100.14402	100	
+Artiodactyla	Capricornis	crispus	Capricornis crispus	Capricornis_crispus_Centroid	Bovidae	Capricornis	Bovidae	3	0	1	0	0	0	1	1			37	37	37.2	37.2	82.5	43.03064	NA	
+Artiodactyla	Capricornis	milneedwardsii	Capricornis milneedwardsii	Capricornis_milneedwardsii_Centroid	Bovidae	Capricornis	Bovidae	3	0	1	0	0	0	1	1			113	113	130	95	NA	NA	NA	
+Artiodactyla	Capricornis	rubidus	Capricornis rubidus	Capricornis_rubidus_Centroid	Bovidae	Capricornis	Bovidae	3	0	1	0	0	0	1	1			95	95	87.5	95	NA	NA	NA	
+Artiodactyla	Capricornis	sumatraensis	Capricornis sumatraensis	Capricornis_sumatraensis_Centroid	Bovidae	Capricornis	Bovidae	3	0	1	0	0	0	1	1			102	102	87.5	102	107.5	110.94222	NA	
+Artiodactyla	Capricornis	swinhoei	Capricornis swinhoei	Capricornis_swinhoei_Centroid	Bovidae	Capricornis	Bovidae	2	0	1	0	0	0	1	1			21	21	21	37	85	NA	NA	
+Artiodactyla	Capricornis	thar	Capricornis thar	Capricornis_thar_Centroid	Bovidae	Capricornis	Bovidae	3	0	1	0	0	0	1	1			95	95	112.5	95	NA	NA	NA	
+Artiodactyla	CapriniGen	spA	CapriniGen spA	CapriniGen_spA_Centroid	Bovidae	CapriniGen	Bovidae	3	0	1	0	0	0	1	1	by tribe (goat)		63.3	NA	63.3	NA	NA	NA	NA	
+Artiodactyla	Cephalophus	adersi	Cephalophus adersi	Cephalophus_adersi_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			9.6	9.6	9.2	9.6	9	9.24995	NA	
+Artiodactyla	Cephalophus	callipygus	Cephalophus callipygus	Cephalophus_callipygus_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			18	18	18.2	18	18	19.07923	NA	
+Artiodactyla	Cephalophus	dorsalis	Cephalophus dorsalis	Cephalophus_dorsalis_Centroid	Bovidae	Cephalophus	Bovidae	2	0	1	0	0	0	1	1			19.9	19.9	20	19.9	17.25	20	NA	
+Artiodactyla	Cephalophus	harveyi	Cephalophus harveyi	Cephalophus_harveyi_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			15	15	14.5	15	NA	NA	NA	
+Artiodactyla	Cephalophus	jentinki	Cephalophus jentinki	Cephalophus_jentinki_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			67.5	67.5	70	67.5	67.5	68.48954	NA	
+Artiodactyla	Cephalophus	leucogaster	Cephalophus leucogaster	Cephalophus_leucogaster_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			16	16	12.7	16	15	13.20869	NA	
+Artiodactyla	Cephalophus	natalensis	Cephalophus natalensis	Cephalophus_natalensis_Centroid	Bovidae	Cephalophus	Bovidae	2	0	1	0	0	0	1	1			13	13	12	13	13	12.72451	14	
+Artiodactyla	Cephalophus	niger	Cephalophus niger	Cephalophus_niger_Centroid	Bovidae	Cephalophus	Bovidae	1	0	1	0	0	0	1	1			20	20	20.4	20	16.5	19.09432	NA	
+Artiodactyla	Cephalophus	nigrifrons	Cephalophus nigrifrons	Cephalophus_nigrifrons_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			16	16	13.9	16	15.5	14.67633	NA	
+Artiodactyla	Cephalophus	ogilbyi	Cephalophus ogilbyi	Cephalophus_ogilbyi_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			20	20	20	20	17	18.38642	NA	
+Artiodactyla	Cephalophus	rufilatus	Cephalophus rufilatus	Cephalophus_rufilatus_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			10	10	12	10	13	12.11457	12.5	
+Artiodactyla	Cephalophus	silvicultor	Cephalophus silvicultor	Cephalophus_silvicultor_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			62.5	62.5	72.5	62.5	61.5	62.0066	NA	
+Artiodactyla	Cephalophus	spadix	Cephalophus spadix	Cephalophus_spadix_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			55	55	56	55	55	56.85702	NA	
+Artiodactyla	Cephalophus	weynsi	Cephalophus weynsi	Cephalophus_weynsi_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			15	15	17	15	NA	NA	NA	
+Artiodactyla	Cephalophus	zebra	Cephalophus zebra	Cephalophus_zebra_Centroid	Bovidae	Cephalophus	Bovidae	2	0	0	1	0	0	0	1			17.5	17.5	17.5	17.5	14.5	15.65475	NA	
+Artiodactyla	Connochaetes	gnou	Connochaetes gnou	Connochaetes_gnou_Centroid	Bovidae	Connochaetes	Bovidae	3	0	0	0	1	0	0	1			145	145	180	145	205	156.54753	NA	
+Artiodactyla	Connochaetes	taurinus	Connochaetes taurinus	Connochaetes_taurinus_Centroid	Bovidae	Connochaetes	Bovidae	3	0	0	0	1	0	0	1			180	180	180	180	194	198.61968	203	
+Artiodactyla	Damaliscus	hypsodon	Damaliscus hypsodon	Damaliscus_hypsodon_Centroid	Bovidae	Damaliscus	Bovidae	3	0	0	0	1	0	0	1	by genus		63	NA	63	NA	NA	NA	NA	
+Artiodactyla	Damaliscus	lunatus	Damaliscus lunatus	Damaliscus_lunatus_Centroid	Bovidae	Damaliscus	Bovidae	3	0	0	0	1	0	0	1			129	129	136	129	122.5	136.00033	122	
+Artiodactyla	Damaliscus	niro	Damaliscus niro	Damaliscus_niro_Centroid	Bovidae	Damaliscus	Bovidae	3	0	0	0	1	0	0	1	by genus		150	NA	150	NA	NA	NA	NA	
+Artiodactyla	Damaliscus	pygargus	Damaliscus pygargus	Damaliscus_pygargus_Centroid	Bovidae	Damaliscus	Bovidae	3	0	0	0	1	0	0	1			103	103	102	69	105	77.78455	70	
+Artiodactyla	Dorcatragus	megalotis	Dorcatragus megalotis	Dorcatragus_megalotis_Centroid	Bovidae	Dorcatragus	Bovidae	3	0	1	0	0	0	1	1			9	9	10.2	9	10.25	10.91812	NA	
+Artiodactyla	Euceratherium	collinum	Euceratherium collinum	Euceratherium_collinum_Centroid	Bovidae	Euceratherium	Bovidae	3	0	1	0	0	0	1	1	by pic (ovibovini)		600	600	450	NA	NA	NA	NA	
+Artiodactyla	Eudorcas	albonotata	Eudorcas albonotata	Eudorcas_albonotata_Centroid	Bovidae	Eudorcas	Bovidae	3	0	1	0	0	0	1	1	by genus		25	NA	25	NA	NA	NA	NA	
+Artiodactyla	Eudorcas	rufifrons	Eudorcas rufifrons	Eudorcas_rufifrons_Centroid	Bovidae	Eudorcas	Bovidae	3	0	1	0	0	0	1	1			23.9	23.9	27	23.9	25	26.99977	NA	
+Artiodactyla	Eudorcas	rufina	Eudorcas rufina	Eudorcas_rufina_Centroid	Bovidae	Eudorcas	Bovidae	3	0	1	0	0	0	1	1			40	40	40	40	40	39.99999	NA	
+Artiodactyla	Eudorcas	thomsonii	Eudorcas thomsonii	Eudorcas_thomsonii_Centroid	Bovidae	Eudorcas	Bovidae	3	0	1	0	0	0	1	1			20	20	20.5	20	24	22.90743	21	
+Artiodactyla	Gazella	atlantica	Gazella atlantica	Gazella_atlantica_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1	pictures		20	20	44.5	NA	NA	NA	NA	
+Artiodactyla	Gazella	bennettii	Gazella bennettii	Gazella_bennettii_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1			18.9	18.9	18.9	18.9	18.95	18.91667	NA	
+Artiodactyla	Gazella	bilkis	Gazella bilkis	Gazella_bilkis_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1	by relative G. Spekei		24	24	48.5	NA	NA	NA	NA	Gazella arabica
+Artiodactyla	Gazella	cuvieri	Gazella cuvieri	Gazella_cuvieri_Centroid	Bovidae	Gazella	Bovidae	2	0	1	0	0	0	1	1			25	25	25	17.5	25	NA	NA	
+Artiodactyla	Gazella	dorcas	Gazella dorcas	Gazella_dorcas_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1			17	17	23	17	17.2	15.63595	NA	
+Artiodactyla	Gazella	gazella	Gazella gazella	Gazella_gazella_Centroid	Bovidae	Gazella	Bovidae	2	0	1	0	0	0	1	1			20.8	20.8	22.7	20.8	22.75	21.30683	NA	
+Artiodactyla	Gazella	leptoceros	Gazella leptoceros	Gazella_leptoceros_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1			23.6	23.6	22.2	23.6	30	24.64575	NA	
+Artiodactyla	Gazella	marica	Gazella marica	Gazella_marica_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1	By relative G. Subgutturosa (another relative?) plus Schulz 2013 but not		18	18	20.2	NA	NA	NA	NA	
+Artiodactyla	Gazella	saudiya	Gazella saudiya	Gazella_saudiya_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1			16	16	16	16	15.9245	16	NA	
+Artiodactyla	Gazella	spekei	Gazella spekei	Gazella_spekei_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1			19	19	20	19	20	20	NA	
+Artiodactyla	Gazella	subgutturosa	Gazella subgutturosa	Gazella_subgutturosa_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1			25.3	25.3	28.5	25.3	31.25	26.98137	NA	
+Artiodactyla	Gazella	tingitana	Gazella tingitana	Gazella_tingitana_Centroid	Bovidae	Gazella	Bovidae	3	0	1	0	0	0	1	1	by genus max		24.9	NA	24.9	NA	NA	NA	NA	
+Artiodactyla	Hemitragus	cedrensis	Hemitragus cedrensis	Hemitragus_cedrensis_Centroid	Bovidae	Hemitragus	Bovidae	3	0	1	0	0	0	1	1	by genus		64.6	NA	64.6	NA	NA	NA	NA	
+Artiodactyla	Hemitragus	jemlahicus	Hemitragus jemlahicus	Hemitragus_jemlahicus_Centroid	Bovidae	Hemitragus	Bovidae	3	0	1	0	0	0	1	1			54.5	54.5	35.2	79.7	67.6	68.61643	NA	
+Artiodactyla	Hippotragus	equinus		Hippotragus_equinus_Centroid	Bovidae	Hippotragus	Bovidae	3	0	0	1	0	0	0	1			251	251	270	26.5	220.5	264.17396	225	
+Artiodactyla	Hippotragus	leucophaeus	Hippotragus leucophaeus	Hippotragus_leucophaeus_Centroid	Bovidae	Hippotragus	Bovidae	3	0	0	1	0	0	0	1			150	150	150	150	150	149.99999	NA	
+Artiodactyla	Hippotragus	niger	Hippotragus niger	Hippotragus_niger_Centroid	Bovidae	Hippotragus	Bovidae	3	0	0	1	0	0	0	1			195	195	227.5	22.6	240	236.4059	197	
+Artiodactyla	Kobus	ellipsiprymnus	Kobus ellipsiprymnus	Kobus_ellipsiprymnus_Centroid	Bovidae	Kobus	Bovidae	3	0	0	1	0	0	0	1			175	175	210	175	200	204.39348	194	
+Artiodactyla	Kobus	kob	Kobus kob	Kobus_kob_Centroid	Bovidae	Kobus	Bovidae	3	0	0	1	0	0	0	1			78.5	78.5	78.5	58.6	80.5	80.03521	83.4	
+Artiodactyla	Kobus	leche	Kobus leche	Kobus_leche_Centroid	Bovidae	Kobus	Bovidae	3	0	0	1	0	0	0	1			87	87	110.7	87	115	88.64504	90.6	
+Artiodactyla	Kobus	megaceros	Kobus megaceros	Kobus_megaceros_Centroid	Bovidae	Kobus	Bovidae	3	0	0	1	0	0	0	1			90	90	87.5	17.5	125	85.80593	NA	
+Artiodactyla	Kobus	vardonii	Kobus vardonii	Kobus_vardonii_Centroid	Bovidae	Kobus	Bovidae	3	0	0	1	0	0	0	1			69.8	69.8	71.5	69.8	69.3	71.46272	69.3	
+Artiodactyla	Litocranius	walleri	Litocranius walleri	Litocranius_walleri_Centroid	Bovidae	Litocranius	Bovidae	1	0	1	0	0	0	1	1			41.3	41.3	38	41.3	41.5	38.80437	42	
+Artiodactyla	Madoqua	guentheri	Madoqua guentheri	Madoqua_guentheri_Centroid	Bovidae	Madoqua	Bovidae	2	0	1	0	0	0	1	1			4.1	4.1	7.5	4.1	5.293	4.6237	NA	
+Artiodactyla	Madoqua	kirkii	Madoqua kirkii	Madoqua_kirkii_Centroid	Bovidae	Madoqua	Bovidae	3	0	1	0	0	0	1	1			4.9	4.9	5.3	4.9	4.9	4.8334	4.94	
+Artiodactyla	Madoqua	piacentinii	Madoqua piacentinii	Madoqua_piacentinii_Centroid	Bovidae	Madoqua	Bovidae	2	0	1	0	0	0	1	1			2.5	2.5	2.5	2.5	2.5	2.5	NA	
+Artiodactyla	Madoqua	saltiana	Madoqua saltiana	Madoqua_saltiana_Centroid	Bovidae	Madoqua	Bovidae	3	0	1	0	0	0	1	1			2.5	2.5	3.2	2.5	4	3.42447	NA	
+Artiodactyla	Megalotragus	priscus	Megalotragus priscus	Megalotragus_priscus_Centroid	Bovidae	Megalotragus	Bovidae	3	0	0	0	1	0	0	1	by relative alcelaphines		200	NA	200	NA	NA	NA	NA	
+Artiodactyla	Megalovis	guangxiensis	Megalovis guangxiensis	Megalovis_guangxiensis_Centroid	Bovidae	Megalovis	Bovidae	3	0	1	0	0	0	1	1	by relative ovibovini		76.2	NA	76.2	NA	NA	NA	NA	
+Artiodactyla	Myotragus	balearicus	Myotragus balearicus	Myotragus_balearicus_Centroid	Bovidae	Myotragus	Bovidae	3	0	1	0	0	0	1	1	by relative caprini		26.4	NA	26.4	NA	NA	NA	NA	
+Artiodactyla	Naemorhedus	baileyi	Naemorhedus baileyi	Naemorhedus_baileyi_Centroid	Bovidae	Naemorhedus	Bovidae	3	0	1	0	0	0	1	1			28.5	28.5	27.5	28.5	27.5	28.86345	NA	
+Artiodactyla	Naemorhedus	caudatus	Naemorhedus caudatus	Naemorhedus_caudatus_Centroid	Bovidae	Naemorhedus	Bovidae	3	0	1	0	0	0	1	1			27	27	27	27	28.5	26.99999	NA	
+Artiodactyla	Naemorhedus	goral	Naemorhedus goral	Naemorhedus_goral_Centroid	Bovidae	Naemorhedus	Bovidae	3	0	1	0	0	0	1	1			27.7	27.7	28.5	27.7	32	28.79651	NA	
+Artiodactyla	Naemorhedus	griseus	Naemorhedus griseus	Naemorhedus_griseus_Centroid	Bovidae	Naemorhedus	Bovidae	3	0	1	0	0	0	1	1			28.5	28.5	25	28.5	NA	NA	NA	
+Artiodactyla	Nanger	dama	Nanger dama	Nanger_dama_Centroid	Bovidae	Nanger	Bovidae	3	0	1	0	0	0	1	1			59.5	59.5	73	59.5	55	71.42481	NA	
+Artiodactyla	Nanger	granti	Nanger granti	Nanger_granti_Centroid	Bovidae	Nanger	Bovidae	3	0	1	0	0	0	1	1			59.5	59.5	55	59.5	57.9	55.46446	58.8	
+Artiodactyla	Nanger	soemmerringii	Nanger soemmerringii	Nanger_soemmerringii_Centroid	Bovidae	Nanger	Bovidae	3	0	1	0	0	0	1	1			39.5	39.5	40	39.5	41.75	41.58293	NA	
+Artiodactyla	Neotragus	batesi	Neotragus batesi	Neotragus_batesi_Centroid	Bovidae	Neotragus	Bovidae	2	0	1	0	0	0	1	1			2.5	2.5	3	2.5	4.2	2.96745	NA	
+Artiodactyla	Neotragus	pygmaeus	Neotragus pygmaeus	Neotragus_pygmaeus_Centroid	Bovidae	Neotragus	Bovidae	2	0	1	0	0	0	1	1			2.75	2.75	4	2.1	3.25	3.91368	NA	
+Artiodactyla	Nesotragus	moschatus	Nesotragus moschatus	Nesotragus_moschatus_Centroid	Bovidae	Nesotragus	Bovidae	2	1	0	0	0	0	1	0	LUOMUS 2022		6.5	NA	6.5	NA	NA	NA	NA	
+Artiodactyla	Nilgiritragus	hylocrius	Nilgiritragus hylocrius	Nilgiritragus_hylocrius_Centroid	Bovidae	Nilgiritragus	Bovidae	3	0	1	0	0	0	1	1	by relative tahr Hemitragus		75	NA	75	NA	NA	NA	NA	
+Artiodactyla	Oreamnos	americanus	Oreamnos americanus	Oreamnos_americanus_Centroid	Bovidae	Oreamnos	Bovidae	3	0	1	0	0	0	1	1			78.5	78.5	72.5	78.5	86	72.1054	NA	
+Artiodactyla	Oreamnos	harringtoni	Oreamnos harringtoni	Oreamnos_harringtoni_Centroid	Bovidae	Oreamnos	Bovidae	3	0	1	0	0	0	1	1	by genus		75	NA	75	NA	NA	NA	NA	
+Artiodactyla	Oreotragus	oreotragus	Oreotragus oreotragus	Oreotragus_oreotragus_Centroid	Bovidae	Oreotragus	Bovidae	3	0	1	0	0	0	1	1			12.2	12.2	13	12.2	13	13.48655	14.3	
+Artiodactyla	Oryx	beisa	Oryx beisa	Oryx_beisa_Centroid	Bovidae	Oryx	Bovidae	3	0	0	1	0	0	0	1			201	201	170	201	175.2885	200.57652	NA	
+Artiodactyla	Oryx	dammah	Oryx dammah	Oryx_dammah_Centroid	Bovidae	Oryx	Bovidae	3	0	0	1	0	0	0	1			158	158	200	158	160	199.79895	NA	
+Artiodactyla	Oryx	gazella	Oryx gazella	Oryx_gazella_Centroid	Bovidae	Oryx	Bovidae	3	0	0	1	0	0	0	1			172	172	169	172	178	188.40445	167	
+Artiodactyla	Oryx	leucoryx	Oryx leucoryx	Oryx_leucoryx_Centroid	Bovidae	Oryx	Bovidae	3	0	0	1	0	0	0	1			83	83	87.7	83	137.5	75.78824	NA	
+Artiodactyla	Ourebia	ourebi	Ourebia ourebi	Ourebia_ourebi_Centroid	Bovidae	Ourebia	Bovidae	3	0	0	1	0	0	0	1			17.5	17.5	17.2	17.5	14.75	17.18609	13.6	
+Artiodactyla	Ovibos	moschatus	Ovibos moschatus	Ovibos_moschatus_Centroid	Bovidae	Ovibos	Bovidae	3	0	1	0	0	0	1	1			302	302	340.5	302	255	312.5	250	
+Artiodactyla	Ovis	ammon	Ovis ammon	Ovis_ammon_Centroid	Bovidae	Ovis	Bovidae	3	0	1	0	0	0	1	1			123	123	180	92	112.5	113.99872	NA	
+Artiodactyla	Ovis	canadensis	Ovis canadensis	Ovis_canadensis_Centroid	Bovidae	Ovis	Bovidae	3	0	0	0	1	0	0	1			65	65	74.6	65	96	74.64487	75.9	
+Artiodactyla	Ovis	dalli	Ovis dalli	Ovis_dalli_Centroid	Bovidae	Ovis	Bovidae	3	0	0	0	1	0	0	1			66.9	66.9	55.7	66.9	76.5	70.19413	NA	
+Artiodactyla	Ovis	nivicola	Ovis nivicola	Ovis_nivicola_Centroid	Bovidae	Ovis	Bovidae	3	0	0	0	1	0	0	1			69	69	90	50.5	83.45	90	NA	
+Artiodactyla	Ovis	orientalis	Ovis orientalis	Ovis_orientalis_Centroid	Bovidae	Ovis	Bovidae	3	0	1	0	0	0	0	1	by genus		60	NA	60	NA	NA	NA	NA	
+Artiodactyla	Pantholops	hodgsonii	Pantholops hodgsonii	Pantholops_hodgsonii_Centroid	Bovidae	Pantholops	Bovidae	3	0	1	0	0	0	1	1			34.1	34.1	27.5	34.1	40	32.73312	NA	
+Artiodactyla	Pelea	capreolus	Pelea capreolus	Pelea_capreolus_Centroid	Bovidae	Pelea	Bovidae	3	0	1	0	0	0	1	1			24.5	24.5	20	24.5	24	22.73133	24	
+Artiodactyla	Pelorovis	antiquus	Pelorovis antiquus	Pelorovis_antiquus_Centroid	Bovidae	Pelorovis	Bovidae	3	0	0	1	1	0	0	1	pictures, like Syncerus		1200	1200	1000	NA	NA	NA	NA	
+Artiodactyla	Philantomba	maxwellii	Philantomba_ maxwellii	Philantomba_maxwellii_Centroid	Bovidae	Philantomba	Bovidae	2	0	0	1	0	0	0	1			9	9	12	6.9	8.5	8.55769	NA	
+Artiodactyla	Philantomba	monticola	Philantomba monticola	Philantomba_monticola_Centroid	Bovidae	Philantomba	Bovidae	2	0	0	1	0	0	0	1			6.3	6.3	6.2	6.3	6.25	4.89605	NA	
+Artiodactyla	Philantomba	walteri	Philantomba walteri	Philantomba_walteri_Centroid	Bovidae	Philantomba	Bovidae	2	0	0	1	0	0	0	1	by genus		9	NA	9	NA	NA	NA	NA	
+Artiodactyla	Procapra	gutturosa	Procapra gutturosa	Procapra_gutturosa_Centroid	Bovidae	Procapra	Bovidae	3	0	1	0	0	0	1	1			27.8	27.8	27.8	27.8	29.5	28.27427	NA	
+Artiodactyla	Procapra	picticaudata	Procapra picticaudata	Procapra_picticaudata_Centroid	Bovidae	Procapra	Bovidae	3	0	1	0	0	0	1	1			23.2	23.2	20	23.2	21.5755	23.19767	NA	
+Artiodactyla	Procapra	przewalskii	Procapra przewalskii	Procapra_przewalskii_Centroid	Bovidae	Procapra	Bovidae	3	0	1	0	0	0	1	1			27.5	27.5	27.5	27.5	27.5	27.49999	NA	
+Artiodactyla	Pseudois	nayaur	Pseudois nayaur	Pseudois_nayaur_Centroid	Bovidae	Pseudois	Bovidae	3	0	1	0	0	0	1	1			49.8	49.8	45	49.8	55	52.33457	56.25	
+Artiodactyla	Pseudoryx	nghetinhensis	Pseudoryx nghetinhensis	Pseudoryx_nghetinhensis_Centroid	Bovidae	Pseudoryx	Bovidae	2	0	1	0	0	0	1	1			90	90	85	90	90	97.8422	NA	
+Artiodactyla	Raphicerus	campestris	Raphicerus campestris	Raphicerus_campestris_Centroid	Bovidae	Raphicerus	Bovidae	3	0	1	0	0	0	1	1			11.3	11.3	10.5	11.3	11.5	11.66153	12.3	
+Artiodactyla	Raphicerus	melanotis	Raphicerus melanotis	Raphicerus_melanotis_Centroid	Bovidae	Raphicerus	Bovidae	3	0	1	0	0	0	1	1			10.3	10.3	10.2	10.3	15.5	10.50314	NA	
+Artiodactyla	Raphicerus	sharpei	Raphicerus sharpei	Raphicerus_sharpei_Centroid	Bovidae	Raphicerus	Bovidae	3	0	1	0	0	0	1	1			7.6	7.6	9.5	7.6	11.2	9.3969	8.21	
+Artiodactyla	Redunca	arundinum	Redunca arundinum	Redunca_arundinum_Centroid	Bovidae	Redunca	Bovidae	3	0	0	1	0	0	0	1			50.8	50.8	58	50.8	66.5	58.05924	59.4	
+Artiodactyla	Redunca	fulvorufula	Redunca fulvorufula	Redunca_fulvorufula_Centroid	Bovidae	Redunca	Bovidae	3	0	0	1	0	0	0	1			30	30	29.5	30	26.05	29.35266	28	
+Artiodactyla	Redunca	redunca	Redunca redunca	Redunca_redunca_Centroid	Bovidae	Redunca	Bovidae	3	0	0	1	0	0	0	1			40	40	44.1	40	48.35	43.28895	43.5	
+Artiodactyla	Rupicapra	pyrenaica	Rupicapra pyrenaica	Rupicapra_pyrenaica_Centroid	Bovidae	Rupicapra	Bovidae	3	0	1	0	0	0	1	1			30	30	30	30	37	29.99999	NA	
+Artiodactyla	Rupicapra	rupicapra	Rupicapra rupicapra	Rupicapra_rupicapra_Centroid	Bovidae	Rupicapra	Bovidae	3	0	1	0	0	0	1	1			37.5	37.5	26.1	36	38	33.26635	NA	
+Artiodactyla	Rusingoryx	atopocranion	Rusingoryx atopocranion	Rusingoryx_atopocranion_Centroid	Bovidae	Rusingoryx	Bovidae	3	0	0	0	1	0	0	1	pictures, with alcelaphines		150	NA	150	NA	NA	NA	NA	
+Artiodactyla	Saiga	tatarica	Saiga tatarica	Saiga_tatarica_Centroid	Bovidae	Saiga	Bovidae	3	0	1	0	0	0	1	1			37	37	29	38.3	45	37.73401	42.5	
+Artiodactyla	Sivacobus	sankaliai	Sivacobus sankaliai	Sivacobus_sankaliai_Centroid	Bovidae	Sivacobus	Bovidae	3	0	0	1	0	0	0	1	by relative reduncine		78.5	NA	78.5	NA	NA	NA	NA	
+Artiodactyla	Soergelia	minor	Soergelia minor	Soergelia_minor_Centroid	Bovidae	Soergelia	Bovidae	3	0	1	0	0	0	1	1	by relative ovibovini		225	NA	225	NA	NA	NA	NA	
+Artiodactyla	Spirocerus	kiakhtensis	Spirocerus kiakhtensis	Spirocerus_kiakhtensis_Centroid	Bovidae	Spirocerus	Bovidae	3	1	0	0	0	0	1	0	by pictures, uncertain		900	900	790.7	NA	NA	NA	NA	
+Artiodactyla	Sylvicapra	grimmia	Sylvicapra grimmia	Sylvicapra_grimmia_Centroid	Bovidae	Sylvicapra	Bovidae	2	0	0	1	0	0	0	1			20	20	19.5	20	17.75	15.63915	11.3	
+Artiodactyla	Syncerus	caffer	Syncerus caffer	Syncerus_caffer_Centroid	Bovidae	Syncerus	Bovidae	3	0	0	1	1	0	0	1			555	555	580	555	525	592.66598	54.4	
+Artiodactyla	Tetracerus	quadricornis	Tetracerus quadricornis	Tetracerus_quadricornis_Centroid	Bovidae	Tetracerus	Bovidae	3	0	0	1	0	0	0	1			17.5	17.5	19	17.5	20	19.28212	NA	
+Artiodactyla	Tragelaphus	angasii	Tragelaphus angasii	Tragelaphus_angasii_Centroid	Bovidae	Tragelaphus	Bovidae	2	0	1	0	0	0	1	1			91	91	86.6	91	97.45	87.61676	90.6	
+Artiodactyla	Tragelaphus	buxtoni	Tragelaphus buxtoni	Tragelaphus_buxtoni_Centroid	Bovidae	Tragelaphus	Bovidae	1	0	1	0	0	0	1	1			199	199	215	199	225	215.00075	NA	
+Artiodactyla	Tragelaphus	derbianus	Tragelaphus derbianus	Tragelaphus_derbianus_Centroid	Bovidae	Tragelaphus	Bovidae	2	1	0	0	0	0	1	0	pictures		680	NA	680	NA	NA	NA	NA	
+Artiodactyla	Tragelaphus	eurycerus	Tragelaphus eurycerus	Tragelaphus_eurycerus_Centroid	Bovidae	Tragelaphus	Bovidae	2	1	0	0	0	0	1	0			278	278	329	205	277.5	270.99837	NA	
+Artiodactyla	Tragelaphus	imberbis	Tragelaphus imberbis	Tragelaphus_imberbis_Centroid	Bovidae	Tragelaphus	Bovidae	2	0	1	0	0	0	1	1			77	77	81.6	77	99	94.32039	110	
+Artiodactyla	Tragelaphus	oryx	Tragelaphus oryx	Tragelaphus_oryx_Centroid	Bovidae	Tragelaphus	Bovidae	3	0	1	0	0	0	1	1	Taurotragus		570	NA	570	NA	NA	NA	NA	Taurotragus oryx
+Artiodactyla	Tragelaphus	scriptus	Tragelaphus scriptus	Tragelaphus_scriptus_Centroid	Bovidae	Tragelaphus	Bovidae	2	0	1	0	0	0	1	1			40.4	40.4	43.3	40.4	50.5	43.25039	40.8	
+Artiodactyla	Tragelaphus	spekii	Tragelaphus spekii	Tragelaphus_spekii_Centroid	Bovidae	Tragelaphus	Bovidae	2	1	0	0	0	0	1	0			81.3	81.3	78	81.3	85	75.55425	74.8	
+Artiodactyla	Tragelaphus	strepsiceros	Tragelaphus strepsiceros	Tragelaphus_strepsiceros_Centroid	Bovidae	Tragelaphus	Bovidae	2	0	1	0	0	0	1	1			198	198	213.5	198	217.5	206.05641	171	
+Artiodactyla	Camelops	hesternus	Camelops hesternus	Camelops_hesternus_Centroid	Camelidae	Camelops	Camelidae	3	1	0	0	0	0	1	0			1100	1100	1100	NA	NA	NA	NA	
+Artiodactyla	Camelus	dromedarius	Camelus dromedarius	Camelus_dromedarius_Centroid	Camelidae	Camelus	Camelidae	3	0	1	0	0	0	1	1			495	495	800	434	650	492.71447	NA	
+Artiodactyla	Camelus	ferus	Camelus ferus	Camelus_ferus_Centroid	Camelidae	Camelus	Camelidae	3	0	1	0	0	0	1	1			690	690	690	NA	NA	NA	NA	
+Artiodactyla	Hemiauchenia	macrocephala	Hemiauchenia macrocephala	Hemiauchenia_macrocephala_Centroid	Camelidae	Hemiauchenia	Camelidae	3	0	1	0	0	0	1	1	pictures		110	NA	110	NA	NA	NA	NA	
+Artiodactyla	Hemiauchenia	paradoxa	Hemiauchenia paradoxa	Hemiauchenia_paradoxa_Centroid	Camelidae	Hemiauchenia	Camelidae	3	0	1	0	0	0	1	1	pictures		1000	NA	1000	NA	NA	NA	NA	
+Artiodactyla	Lama	guanicoe	Lama guanicoe	Lama_guanicoe_Centroid	Camelidae	Lama	Camelidae	3	1	0	0	0	0	1	0			115	115	120	70.5	NA	NA	NA	
+Artiodactyla	Palaeolama	major	Palaeolama major	Palaeolama_major_Centroid	Camelidae	Palaeolama	Camelidae	3	1	0	0	0	0	1	0	pictures		1090	NA	1089.5	NA	NA	NA	NA	
+Artiodactyla	Palaeolama	mirifica	Palaeolama mirifica	Palaeolama_mirifica_Centroid	Camelidae	Palaeolama	Camelidae	3	1	0	0	0	0	1	0	pictures		80	NA	80	NA	NA	NA	NA	
+Artiodactyla	Palaeolama	weddeli	Palaeolama weddeli	Palaeolama_weddeli_Centroid	Camelidae	Palaeolama	Camelidae	3	1	0	0	0	0	1	0	pictures		1020	NA	1021.9	NA	NA	NA	NA	
+Artiodactyla	Vicugna	vicugna	Vicugna vicugna	Vicugna_vicugna_Centroid	Camelidae	Vicugna	Camelidae	3	1	0	0	0	0	1	0			50	50	47.5	50	50	47.49961	47.5	
+Artiodactyla	Agalmaceros	blicki	Agalmaceros blicki	Agalmaceros_blicki_Centroid	Cervidae	Agalmaceros	Cervidae	1	1	0	0	0	0	1	0	from pictures		60	60	60	NA	NA	NA	NA	
+Artiodactyla	Alces	alces	Alces alces	Alces_alces_Centroid	Cervidae	Alces	Cervidae	1	1	0	0	0	0	1	0	old scores		351	351	357	351	507.5	461.90076	403	
+Artiodactyla	Antifer	ultra	Antifer ultra	Antifer_ultra_Centroid	Cervidae	Antifer	Cervidae	1	1	0	0	0	0	1	0	old scores		87	87	86.7	NA	NA	NA	NA	
+Artiodactyla	Axis	axis	Axis axis	Axis_axis_Centroid	Cervidae	Axis	Cervidae	2	0	0	1	0	0	0	1	old scores		55	55	66.2	55	70	69.49999	48.1	
+Artiodactyla	Axis	calamianensis	Axis calamianensis	Axis_calamianensis_Centroid	Cervidae	Axis	Cervidae	2	0	0	1	0	0	0	1	old scores		40	40	40.5	39.8	43	39.8126	NA	
+Artiodactyla	Axis	kuhlii	Axis kuhlii	Axis_kuhlii_Centroid	Cervidae	Axis	Cervidae	2	0	0	1	0	0	0	1	old scores		55	55	55	55	48	54.99999	NA	
+Artiodactyla	Axis	porcinus	Axis porcinus	Axis_porcinus_Centroid	Cervidae	Axis	Cervidae	2	0	0	1	0	0	0	1	old scores		35	35	34.1	33.5	70.5	37.44829	31	
+Artiodactyla	Blastocerus	dichotomus	Blastocerus dichotomus	Blastocerus_dichotomus_Centroid	Cervidae	Blastocerus	Cervidae	1	1	0	0	0	0	1	0			103	103	86.7	103	110	112.51853	125	
+Artiodactyla	Candiacervus	cretensis	Candiacervus cretensis	Candiacervus_cretensis_Centroid	Cervidae	Candiacervus	Cervidae	1	1	0	0	0	0	1	0	by genus		79.4	NA	79.4	NA	NA	NA	NA	
+Artiodactyla	Candiacervus	dorothensis	Candiacervus dorothensis	Candiacervus_dorothensis_Centroid	Cervidae	Candiacervus	Cervidae	1	1	0	0	0	0	1	0	by genus		539	NA	538.9	NA	NA	NA	NA	
+Artiodactyla	Candiacervus	major	Candiacervus major	Candiacervus_major_Centroid	Cervidae	Candiacervus	Cervidae	1	1	0	0	0	0	1	0	by genus		708	NA	708.3	NA	NA	NA	NA	
+Artiodactyla	Candiacervus	rethymnensis	Candiacervus rethymnensis	Candiacervus_rethymnensis_Centroid	Cervidae	Candiacervus	Cervidae	1	1	0	0	0	0	1	0	by genus		222	NA	221.5	NA	NA	NA	NA	
+Artiodactyla	Candiacervus	ropalophorus	Candiacervus ropalophorus	Candiacervus_ropalophorus_Centroid	Cervidae	Candiacervus	Cervidae	1	1	0	0	0	0	1	0	pictures, uncertain		29.9	NA	29.9	NA	NA	NA	NA	
+Artiodactyla	Candiacervus	spII	Candiacervus spII	Candiacervus_spII_Centroid	Cervidae	Candiacervus	Cervidae	1	1	0	0	0	0	1	0	by genus		42.6	NA	42.6	NA	NA	NA	NA	
+Artiodactyla	Capreolus	capreolus	Capreolus capreolus	Capreolus_capreolus_Centroid	Cervidae	Capreolus	Cervidae	1	1	0	0	0	0	1	0			22	22	22.5	21.5	23.5	22.50201	21.7	
+Artiodactyla	Capreolus	miyakoensis	Capreolus miyakoensis	Capreolus_miyakoensis_Centroid	Cervidae	Capreolus	Cervidae	1	1	0	0	0	0	1	0			24	24	24.1	NA	NA	NA	NA	
+Artiodactyla	Capreolus	pygargus	Capreolus pygargus	Capreolus_pygargus_Centroid	Cervidae	Capreolus	Cervidae	1	1	0	0	0	0	1	0			40	40	43.8	39.5	42.65	41.37103	NA	
+Artiodactyla	Cervalces	scotti	Cervalces scotti	Cervalces_scotti_Centroid	Cervidae	Cervalces	Cervidae	1	1	0	0	0	0	1	0	pictures, uncertain		632	NA	632	NA	NA	NA	NA	
+Artiodactyla	Cervus	albirostris	Cervus albirostris	Cervus_albirostris_Centroid	Cervidae	Cervus	Cervidae	1	0	1	0	0	0	0	1	pictures, uncertain		125	NA	125	NA	NA	NA	NA	
+Artiodactyla	Cervus	astylodon	Cervus astylodon	Cervus_astylodon_Centroid	Cervidae	Cervus	Cervidae	1	0	1	0	0	0	0	1	by pictures, very uncertain		18.5	NA	18.5	NA	NA	NA	NA	
+Artiodactyla	Cervus	canadensis	Cervus canadensis	Cervus_canadensis_Centroid	Cervidae	Cervus	Cervidae	2	1	0	0	0	0	1	0			337	337	131.2	285	NA	NA	310	
+Artiodactyla	Cervus	elaphus	Cervus elaphus	Cervus_elaphus_Centroid	Cervidae	Cervus	Cervidae	2	1	0	0	0	0	1	0			190	190	131.2	150	279	240.86713	175	
+Artiodactyla	Cervus	nippon	Cervus nippon	Cervus_nippon_Centroid	Cervidae	Cervus	Cervidae	2	0	0	1	0	0	0	1			53	53	53	53	75.4	52.99999	NA	
+Artiodactyla	Dama	dama	Dama dama	Dama_dama_Centroid	Cervidae	Dama	Cervidae	1	1	0	0	0	0	1	0			54.5	54.5	56.2	54.5	65.5	57.22461	NA	
+Artiodactyla	Dama	mesopotamica	Dama mesopotamica	Dama_mesopotamica_Centroid	Cervidae	Dama	Cervidae	1	1	0	0	0	0	1	0			70	70	72.5	70	NA	NA	NA	
+Artiodactyla	Dicroceros	spA	Dicroceros spA	Dicroceros_spA_Centroid	Cervidae	Dicroceros	Cervidae	1	1	0	0	0	0	1	0	pictures, uncertain		11.1	NA	11.1	NA	NA	NA	NA	Dirocerus
+Artiodactyla	Elaphodus	cephalophus	Elaphodus cephalophus	Elaphodus_cephalophus_Centroid	Cervidae	Elaphodus	Cervidae	1	1	0	0	0	0	1	0			23.5	23.5	33.5	18	33.5	23.08787	NA	
+Artiodactyla	Elaphurus	davidianus	Elaphurus davidianus	Elaphurus_davidianus_Centroid	Cervidae	Elaphurus	Cervidae	2	0	0	1	0	0	0	1			149	149	149	149	177.5	165.98917	NA	
+Artiodactyla	Haploidoceros	mediterraneus	Haploidoceros mediterraneus	Haploidoceros_mediterraneus_Centroid	Cervidae	Haploidoceros	Cervidae	1	1	0	0	0	0	1	0	pictures, uncertain		100	NA	100	NA	NA	NA	NA	
+Artiodactyla	Hippocamelus	antisensis	Hippocamelus antisensis	Hippocamelus_antisensis_Centroid	Cervidae	Hippocamelus	Cervidae	1	1	0	0	0	0	1	0			68.6	68.6	68.6	68.6	54.5	68.59935	NA	
+Artiodactyla	Hippocamelus	bisulcus	Hippocamelus bisulcus	Hippocamelus_bisulcus_Centroid	Cervidae	Hippocamelus	Cervidae	1	1	0	0	0	0	1	0			70	70	70	70	72.5	69.24081	NA	
+Artiodactyla	Hydropotes	inermis	Hydropotes inermis	Hydropotes_inermis_Centroid	Cervidae	Hydropotes	Cervidae	1	0	1	0	0	0	1	1			11	11	14	11	13.75	12.76004	NA	
+Artiodactyla	Mazama	americana	Mazama americana	Mazama_americana_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			26.1	26.1	22.8	26.1	38.5	20.54686	20	
+Artiodactyla	Mazama	bororo	Mazama bororo	Mazama_bororo_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			25	25	25	25	NA	NA	NA	
+Artiodactyla	Mazama	bricenii	Mazama bricenii	Mazama_bricenii_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			16.5	16.5	16.5	16.5	16.5	16.49985	NA	
+Artiodactyla	Mazama	chunyi	Mazama chunyi	Mazama_chunyi_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			16.1	16.1	16.5	16.1	16.298	16.07174	NA	
+Artiodactyla	Mazama	gouazoubira	Mazama gouazoubira	Mazama_gouazoubira_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			20	20	16.3	20	16.5	16.63317	17.35	
+Artiodactyla	Mazama	nana	Mazama nana	Mazama_nana_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			17.5	17.5	16.5	17.5	16.5	16.49985	NA	
+Artiodactyla	Mazama	nemorivaga	Mazama nemorivaga	Mazama_nemorivaga_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0	by genus		15	NA	15	NA	NA	NA	NA	
+Artiodactyla	Mazama	pandora	Mazama pandora	Mazama_pandora_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			16.5	16.5	21	16.5	21.5	NA	NA	
+Artiodactyla	Mazama	rufina	Mazama rufina	Mazama_rufina_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			12.5	12.5	26	8.2	17	21.09925	NA	
+Artiodactyla	Mazama	temama	Mazama temama	Mazama_temama_Centroid	Cervidae	Mazama	Cervidae	1	1	0	0	0	0	1	0			22	22	25	16.5	NA	NA	NA	
+Artiodactyla	Megaceroides	algericus	Megaceroides algericus	Megaceroides_algericus_Centroid	Cervidae	Megaceroides	Cervidae	1	1	0	0	0	0	1	0	pictures		800	NA	800	NA	NA	NA	NA	
+Artiodactyla	Megaloceros	giganteus	Megaloceros giganteus	Megaloceros_giganteus_Centroid	Cervidae	Megaloceros	Cervidae	1	0	1	0	0	0	1	1	pictures		700	NA	699.8	NA	NA	NA	NA	
+Artiodactyla	Morenelaphus	brachyceros	Morenelaphus brachyceros	Morenelaphus_brachyceros_Centroid	Cervidae	Morenelaphus	Cervidae	1	1	0	0	0	0	1	0	pictures, uncertain		50	NA	50	NA	NA	NA	NA	
+Artiodactyla	Morenelaphus	lujanensis	Morenelaphus lujanensis	Morenelaphus_lujanensis_Centroid	Cervidae	Morenelaphus	Cervidae	1	1	0	0	0	0	1	0	pictures, uncertain		50	NA	50	NA	NA	NA	NA	
+Artiodactyla	Muntiacus	atherodes	Muntiacus atherodes	Muntiacus_atherodes_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			18.9	18.9	15.6	18.9	15.9695	18.9391	NA	
+Artiodactyla	Muntiacus	crinifrons	Muntiacus crinifrons	Muntiacus_crinifrons_Centroid	Cervidae	Muntiacus	Cervidae	1	0	1	0	0	0	1	1			28.7	28.7	36.1	18.6	27.2	18.59001	NA	
+Artiodactyla	Muntiacus	feae	Muntiacus feae	Muntiacus_feae_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			22	22	22	22	19.9	21.99999	NA	
+Artiodactyla	Muntiacus	gongshanensis	Muntiacus gongshanensis	Muntiacus_gongshanensis_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			18.6	18.6	19.9	18.6	21	18.59001	NA	
+Artiodactyla	Muntiacus	montanus	Muntiacus montanus	Muntiacus_montanus_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0	by genus, uncertain		17.6	NA	17.6	NA	NA	NA	NA	
+Artiodactyla	Muntiacus	muntjak	Muntiacus muntjak	Muntiacus_muntjak_Centroid	Cervidae	Muntiacus	Cervidae	1	0	1	0	0	0	1	1			14	14	15.9	14	23.75	17.61159	14.2	
+Artiodactyla	Muntiacus	putaoensis	Muntiacus putaoensis	Muntiacus_putaoensis_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			12	12	12	21	11	NA	NA	
+Artiodactyla	Muntiacus	reevesi	Muntiacus reevesi	Muntiacus_reevesi_Centroid	Cervidae	Muntiacus	Cervidae	1	0	1	0	0	0	1	1			12	12	13.5	12	18.5	13.49994	NA	
+Artiodactyla	Muntiacus	rooseveltorum	Muntiacus rooseveltorum	Muntiacus_rooseveltorum_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			10.8	10.8	15	10.8	15.4815	10.76264	NA	
+Artiodactyla	Muntiacus	truongsonensis	Muntiacus truongsonensis	Muntiacus_truongsonensis_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			15	15	15	21	15	NA	NA	
+Artiodactyla	Muntiacus	vaginalis	Muntiacus vaginalis	Muntiacus_vaginalis_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0	by genus, uncertain		18.2	NA	18.2	NA	NA	NA	NA	
+Artiodactyla	Muntiacus	vuquangensis	Muntiacus vuquangensis	Muntiacus_vuquangensis_Centroid	Cervidae	Muntiacus	Cervidae	1	1	0	0	0	0	1	0			36.7	36.7	34	36.7	40	36.69082	NA	
+Artiodactyla	Navahoceros	fricki	Navahoceros fricki	Navahoceros_fricki_Centroid	Cervidae	Navahoceros	Cervidae	1	0	1	0	0	0	1	1	guessing by relative odocoileini		49.5	NA	49.5	NA	NA	NA	NA	
+Artiodactyla	Odocoileus	hemionus	Odocoileus hemionus	Odocoileus_hemionus_Centroid	Cervidae	Odocoileus	Cervidae	1	0	1	0	0	0	1	1			55.8	55.8	54.2	55.8	123.4	84.56057	89.3	
+Artiodactyla	Odocoileus	virginianus	Odocoileus virginianus	Odocoileus_virginianus_Centroid	Cervidae	Odocoileus	Cervidae	1	0	1	0	0	0	1	1			52	52	55.5	52	84	75.90125	85.1	
+Artiodactyla	Ozotoceros	bezoarticus	Ozotoceros bezoarticus	Ozotoceros_bezoarticus_Centroid	Cervidae	Ozotoceros	Cervidae	1	1	0	0	0	0	1	0			35	35	40	35	37.5	34.6204	NA	
+Artiodactyla	Paraceros	fragilis	Paraceros fragilis	Paraceros_fragilis_Centroid	Cervidae	Paraceros	Cervidae	1	1	0	0	0	0	1	0	relative of Blastoceros		50	NA	50	NA	NA	NA	NA	
+Artiodactyla	Praemegaceros	cazioti	Praemegaceros cazioti	Praemegaceros_cazioti_Centroid	Cervidae	Praemegaceros	Cervidae	1	0	1	0	0	0	1	1	Pictures, like megaloceros		70	NA	70	NA	NA	NA	NA	
+Artiodactyla	Pudu	mephistophiles	Pudu mephistophiles	Pudu_mephistophiles_Centroid	Cervidae	Pudu	Cervidae	1	1	0	0	0	0	1	0			9	9	9.6	9	9.6	9.59996	NA	
+Artiodactyla	Pudu	puda	Pudu puda	Pudu_puda_Centroid	Cervidae	Pudu	Cervidae	1	1	0	0	0	0	1	0			9	9	9.7	9	10.75	9.64262	NA	
+Artiodactyla	Rangifer	tarandus	Rangifer tarandus	Rangifer_tarandus_Centroid	Cervidae	Rangifer	Cervidae	1	1	0	0	0	0	1	0			113	113	86	113	177.9	109.0885	100	
+Artiodactyla	Rucervus	duvaucelii	Rucervus duvaucelii	Rucervus_duvaucelii_Centroid	Cervidae	Rucervus	Cervidae	2	1	0	0	0	0	1	0			143	143	143	143	211.5	171.22386	170	
+Artiodactyla	Rucervus	eldii	Rucervus eldii	Rucervus_eldii_Centroid	Cervidae	Rucervus	Cervidae	2	1	0	0	0	0	1	0			100	100	73	123	108	95.47161	NA	
+Artiodactyla	Rucervus	schomburgki	Rucervus schomburgki	Rucervus_schomburgki_Centroid	Cervidae	Rucervus	Cervidae	2	1	0	0	0	0	1	0			108	108	110	108	110	107.62642	NA	
+Artiodactyla	Rusa	alfredi	Rusa alfredi	Rusa_alfredi_Centroid	Cervidae	Rusa	Cervidae	2	0	0	1	0	0	0	1			46.5	46.5	47.5	46.5	NA	46.47504	NA	
+Artiodactyla	Rusa	marianna	Rusa marianna	Rusa_marianna_Centroid	Cervidae	Rusa	Cervidae	2	0	0	1	0	0	0	1			50	50	50	50	NA	49.45761	NA	
+Artiodactyla	Rusa	timorensis	Rusa timorensis	Rusa_timorensis_Centroid	Cervidae	Rusa	Cervidae	1	0	0	1	0	0	0	1			53	53	63	53	NA	66.3755	NA	
+Artiodactyla	Rusa	unicolor	Rusa unicolor	Rusa_unicolor_Centroid	Cervidae	Rusa	Cervidae	2	0	0	1	0	0	0	1			171	171	180.3	171	NA	177.5229	138	
+Artiodactyla	Sangamona	fugitiva	Sangamona fugitiva	Sangamona_fugitiva_Centroid	Cervidae	Sangamona	Cervidae	1	1	0	0	0	0	1	0	pictures		158	NA	157.5	NA	NA	NA	NA	species validity challenged
+Artiodactyla	Sinomegaceros	ordosianus	Sinomegaceros ordosianus	Sinomegaceros_ordosianus_Centroid	Cervidae	Sinomegaceros	Cervidae	1	0	1	0	0	0	1	1	by megaloceros		340	NA	339.6	NA	NA	NA	NA	
+Artiodactyla	Sinomegaceros	yabei	Sinomegaceros yabei	Sinomegaceros_yabei_Centroid	Cervidae	Sinomegaceros	Cervidae	1	0	1	0	0	0	1	1	by megaloceros		388	NA	388.2	NA	NA	NA	NA	
+Artiodactyla	Giraffa	camelopardalis	Giraffa camelopardalis	Giraffa_camelopardalis_Centroid	Giraffidae	Giraffa	Giraffidae	1	1	0	0	0	0	1	0			1000	1000	900	1000	1198	964.65473	912	
+Artiodactyla	Okapia	johnstoni	Okapia johnstoni	Okapia_johnstoni_Centroid	Giraffidae	Okapia	Giraffidae	1	1	0	0	0	0	1	0			250	250	230	250	248.5	230.00114	250	
+Artiodactyla	Choeropsis	liberiensis	Choeropsis liberiensis	Choeropsis_liberiensis_Centroid	Hippopotamidae	Choeropsis	Hippopotamidae	1	0	0	0	0	0	0	1	pictures		235	NA	235	NA	NA	NA	NA	
+Artiodactyla	Hexaprotodon	sivalensis	Hexaprotodon sivalensis	Hexaprotodon_sivalensis_Centroid	Hippopotamidae	Hexaprotodon	Hippopotamidae	1	0	0	0	1	0	0	1	pictures		300	NA	300	NA	NA	NA	NA	
+Artiodactyla	Hippopotamus	amphibius	Hippopotamus amphibius	Hippopotamus_amphibius_Centroid	Hippopotamidae	Hippopotamus	Hippopotamidae	2	0	0	0	1	0	0	1			1258	1258	1417.5	1258	2534	1536.3104	NA	
+Artiodactyla	Hippopotamus	lemerlei	Hippopotamus lemerlei	Hippopotamus_lemerlei_Centroid	Hippopotamidae	Hippopotamus	Hippopotamidae	2	0	0	0	1	0	0	1	pictures		210	210	500	NA	NA	NA	NA	
+Artiodactyla	Hippopotamus	madagascariensis	Hippopotamus madagascariensis	Hippopotamus_madagascariensis_Centroid	Hippopotamidae	Hippopotamus	Hippopotamidae	2	0	0	0	1	0	0	1	pictures		210	210	500	NA	NA	NA	NA	
+Artiodactyla	Phanourios	minutes	Phanourios minutes	Phanourios_minutes_Centroid	Hippopotamidae	Phanourios	Hippopotamidae	1	0	0	0	0	0	0	1	pictures and Upsala, may even be acute		200	200	200	NA	NA	NA	NA	Phanourios minutus
+Artiodactyla	Moschus	anhuiensis	Moschus anhuiensis	Moschus_anhuiensis_Centroid	Moschidae	Moschus	Moschidae	1	1	0	0	0	0	1	0			8.4	8.4	8.4	12	NA	NA	NA	
+Artiodactyla	Moschus	berezovskii	Moschus berezovskii	Moschus_berezovskii_Centroid	Moschidae	Moschus	Moschidae	1	1	0	0	0	0	1	0			10.9	10.9	9	10.9	11.6885	12.47741	NA	
+Artiodactyla	Moschus	chrysogaster	Moschus chrysogaster	Moschus_chrysogaster_Centroid	Moschidae	Moschus	Moschidae	1	1	0	0	0	0	1	0			11	11	14.5	11	14	13.6979	NA	
+Artiodactyla	Moschus	cupreus	Moschus cupreus	Moschus_cupreus_Centroid	Moschidae	Moschus	Moschidae	1	1	0	0	0	0	1	0			12	12	14.5	12	NA	NA	NA	
+Artiodactyla	Moschus	fuscus	Moschus fuscus	Moschus_fuscus_Centroid	Moschidae	Moschus	Moschidae	1	1	0	0	0	0	1	0			13.7	13.7	12.5	13.7	12.5	13.6979	NA	
+Artiodactyla	Moschus	leucogaster	Moschus leucogaster	Moschus_leucogaster_Centroid	Moschidae	Moschus	Moschidae	1	1	0	0	0	0	1	0			12	12	15.5	12	NA	NA	NA	
+Artiodactyla	Moschus	moschiferus	Moschus moschiferus	Moschus_moschiferus_Centroid	Moschidae	Moschus	Moschidae	2	1	0	0	0	0	1	0			12	12	13	12	12.5	13.31557	NA	
+Artiodactyla	Babyrousa	babyrussa	Babyrousa babyrussa	Babyrousa_babyrussa_Centroid	Suidae	Babyrousa	Suidae	1	0	0	0	0	1	0	0	old scores		85	85	100	85	71.5	92.95009	NA	
+Artiodactyla	Babyrousa	celebensis	Babyrousa celebensis	Babyrousa_celebensis_Centroid	Suidae	Babyrousa	Suidae	1	0	0	0	0	1	0	0	old scores		80	80	84.3	80	NA	NA	NA	
+Artiodactyla	Babyrousa	togeanensis	Babyrousa togeanensis	Babyrousa_togeanensis_Centroid	Suidae	Babyrousa	Suidae	1	0	0	0	0	1	0	0	old scores		100	100	113.8	80	NA	NA	NA	
+Artiodactyla	Hylochoerus	meinertzhageni	Hylochoerus meinertzhageni	Hylochoerus_meinertzhageni_Centroid	Suidae	Hylochoerus	Suidae	2	0	0	0	0	0	0	1			203	203	188.5	203	177.5	198.13047	NA	
+Artiodactyla	Kolpochoerus	majus	Kolpochoerus majus	Kolpochoerus_majus_Centroid	Suidae	Kolpochoerus	Suidae	2	0	0	0	1	0	0	0	Fortelius 2016		265	NA	264.5	NA	NA	NA	NA	
+Artiodactyla	Metridiochoerus	compactus	Metridiochoerus compactus	Metridiochoerus_compactus_Centroid	Suidae	Metridiochoerus	Suidae	3	0	0	0	1	0	0	0	Fortelius 2016		142	NA	142	NA	NA	NA	NA	
+Artiodactyla	Phacochoerus	aethiopicus	Phacochoerus aethiopicus	Phacochoerus_aethiopicus_Centroid	Suidae	Phacochoerus	Suidae	3	0	0	0	1	0	0	0			71	71	71	71	82.7	75.60752	60.9	
+Artiodactyla	Phacochoerus	africanus	Phacochoerus africanus	Phacochoerus_africanus_Centroid	Suidae	Phacochoerus	Suidae	3	0	0	0	1	0	0	0			82.5	82.5	82.5	82.5	97.5	82.49999	NA	
+Artiodactyla	Porcula	salvania	Porcula salvania	Porcula_salvania_Centroid	Suidae	Porcula	Suidae	1	0	0	0	0	1	0	0	pictures		7.7	NA	7.7	NA	NA	NA	NA	
+Artiodactyla	Potamochoerus	larvatus	Potamochoerus larvatus	Potamochoerus_larvatus_Centroid	Suidae	Potamochoerus	Suidae	1	0	0	0	0	1	0	0			84.5	84.5	97.5	84.5	98	69.06379	NA	
+Artiodactyla	Potamochoerus	porcus	Potamochoerus porcus	Potamochoerus_porcus_Centroid	Suidae	Potamochoerus	Suidae	1	0	0	0	0	1	0	0			71	71	70	71	87.3	70.00031	65.7	
+Artiodactyla	Sus	ahoenobarbus	Sus ahoenobarbus	Sus_ahoenobarbus_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			150	150	56.7	150	150	NA	NA	
+Artiodactyla	Sus	barbatus	Sus barbatus	Sus_barbatus_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			70	70	70.5	103	95.5	135.80595	NA	
+Artiodactyla	Sus	brachgnathus	Sus brachgnathus	Sus_brachgnathus_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0	by genus		38.1	NA	38.1	NA	NA	NA	NA	
+Artiodactyla	Sus	bucculentus	Sus bucculentus	Sus_bucculentus_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			80	80	101.1	80	NA	NA	NA	
+Artiodactyla	Sus	cebifrons	Sus cebifrons	Sus_cebifrons_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			30	30	32.5	30	105.396	190.7923	NA	
+Artiodactyla	Sus	celebensis	Sus celebensis	Sus_celebensis_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			54	54	55	54	55	53.81321	NA	
+Artiodactyla	Sus	oliveri	Sus oliveri	Sus_oliveri_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			100	100	44.8	10	NA	NA	NA	
+Artiodactyla	Sus	philippensis	Sus philippensis	Sus_philippensis_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			102	102	44.3	102	189.396	190.7923	NA	
+Artiodactyla	Sus	scrofa	Sus scrofa	Sus_scrofa_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			80	80	101.1	80	185.95	84.47154	55.3	
+Artiodactyla	Sus	verrucosus	Sus verrucosus	Sus_verrucosus_Centroid	Suidae	Sus	Suidae	1	0	0	0	0	1	0	0			89.4	89.4	92.5	89.4	92.5	89.40623	NA	
+Artiodactyla	Catagonus	stenocephalus	Catagonus stenocephalus	Catagonus_stenocephalus_Centroid	Tayassuidae	Catagonus	Tayassuidae	1	0	0	0	0	0	0	1	by genus		34.9	NA	34.9	NA	NA	NA	NA	
+Artiodactyla	Catagonus	wagneri	Catagonus wagneri	Catagonus_wagneri_Centroid	Tayassuidae	Catagonus	Tayassuidae	1	0	0	0	0	0	0	1			35.3	35.3	35.6	35.3	39	35.5664	NA	
+Artiodactyla	Muknalia	minima	Muknalia minima	Muknalia_minima_Centroid	Tayassuidae	Muknalia	Tayassuidae	1	0	0	0	0	0	0	1	by genus		20.5	NA	20.5	NA	NA	NA	NA	
+Artiodactyla	Mylohyus	nasutus	Mylohyus nasutus	Mylohyus_nasutus_Centroid	Tayassuidae	Mylohyus	Tayassuidae	1	0	0	0	0	0	0	1	by genus		75	NA	75	NA	NA	NA	NA	
+Artiodactyla	Pecari	tajacu	Pecari tajacu	Pecari_tajacu_Centroid	Tayassuidae	Pecari	Tayassuidae	1	0	0	0	0	0	0	1			20.2	20.2	21.3	20.2	25.5	21.13369	17.52	
+Artiodactyla	Platygonus	compressus	Platygonus compressus	Platygonus_compressus_Centroid	Tayassuidae	Platygonus	Tayassuidae	1	0	0	0	0	0	0	1	by genus		30	30	110	NA	NA	NA	NA	
+Artiodactyla	Tayassu	pecari	Tayassu pecari	Tayassu_pecari_Centroid	Tayassuidae	Tayassu	Tayassuidae	1	0	0	0	0	1	0	0			32	32	32.2	32	37	31.79871	32.5	
+Artiodactyla	Hyemoschus	aquaticus	Hyemoschus aquaticus	Hyemoschus_aquaticus_Centroid	Tragulidae	Hyemoschus	Tragulidae	1	0	1	0	0	0	1	1			12.3	12.3	10.8	12.3	12	10.85	13.3	
+Artiodactyla	Moschiola	indica	Moschiola indica	Moschiola_indica_Centroid	Tragulidae	Moschiola	Tragulidae	1	1	0	0	0	0	1	0	by genus		3	NA	3	NA	NA	NA	NA	
+Artiodactyla	Moschiola	kathygre	Moschiola kathygre	Moschiola_kathygre_Centroid	Tragulidae	Moschiola	Tragulidae	1	1	0	0	0	0	1	0	by genus		2	NA	2	NA	NA	NA	NA	
+Artiodactyla	Moschiola	meminna	Moschiola meminna	Moschiola_meminna_Centroid	Tragulidae	Moschiola	Tragulidae	1	1	0	0	0	0	1	0			3	3	2.4	26.9	3.6475	3.13095	3.2	
+Artiodactyla	Tragulus	javanicus	Tragulus javanicus	Tragulus_javanicus_Centroid	Tragulidae	Tragulus	Tragulidae	1	0	0	1	0	0	0	1			3	3	2.8	3	2.275	1.88993	NA	
+Artiodactyla	Tragulus	kanchil	Tragulus kanchil	Tragulus_kanchil_Centroid	Tragulidae	Tragulus	Tragulidae	1	0	1	0	0	0	1	1			2	2	2	4.4	4.412	NA	NA	
+Artiodactyla	Tragulus	napu	Tragulus napu	Tragulus_napu_Centroid	Tragulidae	Tragulus	Tragulidae	1	1	0	0	0	0	1	0			5.9	5.9	4	5.9	5.255	5.27367	NA	
+Artiodactyla	Tragulus	nigricans	Tragulus nigricans	Tragulus_nigricans_Centroid	Tragulidae	Tragulus	Tragulidae	1	1	0	0	0	0	1	0			2.5	2.5	2.5	4.4	4.35	NA	NA	
+Artiodactyla	Tragulus	versicolor	Tragulus versicolor	Tragulus_versicolor_Centroid	Tragulidae	Tragulus	Tragulidae	1	1	0	0	0	0	1	0			1.7	1.7	1.7	4.4	NA	NA	NA	
+Artiodactyla	Tragulus	williamsoni	Tragulus williamsoni	Tragulus_williamsoni_Centroid	Tragulidae	Tragulus	Tragulidae	1	1	0	0	0	0	1	0			1.5	1.5	1.9	4.4	NA	NA	NA	
+Cetacea	Balaena	mysticetus	Balaena mysticetus	Balaena_mysticetus_Centroid	Balaenidae	Balaena	Balaenidae	NA	NA	NA	NA	NA	NA	NA	NA	aquatic			NA	1e+//0-	NA	NA	NA	NA	
+Cetacea	Eubalaena	australis	Eubalaena australis	Eubalaena_australis_Centroid	Balaenidae	Eubalaena	Balaenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	23000	NA	NA	NA	NA	
+Cetacea	Eubalaena	glacialis	Eubalaena glacialis	Eubalaena_glacialis_Centroid	Balaenidae	Eubalaena	Balaenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	23000	NA	NA	NA	NA	
+Cetacea	Eubalaena	japonica	Eubalaena japonica	Eubalaena_japonica_Centroid	Balaenidae	Eubalaena	Balaenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	23000	NA	NA	NA	NA	
+Cetacea	Balaenoptera	acutorostrata	Balaenoptera acutorostrata	Balaenoptera_acutorostrata_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA	aquatic			NA	10000	NA	NA	NA	NA	
+Cetacea	Balaenoptera	bonaerensis	Balaenoptera bonaerensis	Balaenoptera_bonaerensis_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA	aquatic			NA	7450	NA	NA	NA	NA	
+Cetacea	Balaenoptera	borealis	Balaenoptera borealis	Balaenoptera_borealis_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	20000	NA	NA	NA	NA	
+Cetacea	Balaenoptera	edeni	Balaenoptera edeni	Balaenoptera_edeni_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	20000	NA	NA	NA	NA	
+Cetacea	Balaenoptera	musculus	Balaenoptera musculus	Balaenoptera_musculus_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	190000	NA	NA	NA	NA	
+Cetacea	Balaenoptera	omurai	Balaenoptera omurai	Balaenoptera_omurai_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	7334	NA	NA	NA	NA	
+Cetacea	Balaenoptera	physalus	Balaenoptera physalus	Balaenoptera_physalus_Centroid	Balaenopteridae	Balaenoptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	70000	NA	NA	NA	NA	
+Cetacea	Eschrichtius	robustus	Eschrichtius robustus	Eschrichtius_robustus_Centroid	Balaenopteridae	Eschrichtius	Eschrichtiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	28500	NA	NA	NA	NA	
+Cetacea	Megaptera	novaeangliae	Megaptera novaeangliae	Megaptera_novaeangliae_Centroid	Balaenopteridae	Megaptera	Balaenopteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	30000	NA	NA	NA	NA	
+Cetacea	Caperea	marginata	Caperea marginata	Caperea_marginata_Centroid	Cetotheriidae	Caperea	Neobalaenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	32000	NA	NA	NA	NA	
+Cetacea	Cephalorhynchus	commersonii	Cephalorhynchus commersonii	Cephalorhynchus_commersonii_Centroid	Delphinidae	Cephalorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	72.4	NA	NA	NA	NA	
+Cetacea	Cephalorhynchus	eutropia	Cephalorhynchus eutropia	Cephalorhynchus_eutropia_Centroid	Delphinidae	Cephalorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	45	NA	NA	NA	NA	
+Cetacea	Cephalorhynchus	heavisidii	Cephalorhynchus heavisidii	Cephalorhynchus_heavisidii_Centroid	Delphinidae	Cephalorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	40	NA	NA	NA	NA	
+Cetacea	Cephalorhynchus	hectori	Cephalorhynchus hectori	Cephalorhynchus_hectori_Centroid	Delphinidae	Cephalorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	50	NA	NA	NA	NA	
+Cetacea	Delphinus	capensis	Delphinus capensis	Delphinus_capensis_Centroid	Delphinidae	Delphinus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	128.1	NA	NA	NA	NA	
+Cetacea	Delphinus	delphis	Delphinus delphis	Delphinus_delphis_Centroid	Delphinidae	Delphinus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	80	NA	NA	NA	NA	
+Cetacea	Feresa	attenuata	Feresa attenuata	Feresa_attenuata_Centroid	Delphinidae	Feresa	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	170	NA	NA	NA	NA	
+Cetacea	Globicephala	macrorhynchus	Globicephala macrorhynchus	Globicephala_macrorhynchus_Centroid	Delphinidae	Globicephala	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	726	NA	NA	NA	NA	
+Cetacea	Globicephala	melas	Globicephala melas	Globicephala_melas_Centroid	Delphinidae	Globicephala	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	800	NA	NA	NA	NA	
+Cetacea	Grampus	griseus	Grampus griseus	Grampus_griseus_Centroid	Delphinidae	Grampus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	387.5	NA	NA	NA	NA	
+Cetacea	Lagenodelphis	hosei	Lagenodelphis hosei	Lagenodelphis_hosei_Centroid	Delphinidae	Lagenodelphis	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	164	NA	NA	NA	NA	
+Cetacea	Lagenorhynchus	acutus	Lagenorhynchus acutus	Lagenorhynchus_acutus_Centroid	Delphinidae	Lagenorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	182	NA	NA	NA	NA	
+Cetacea	Lagenorhynchus	albirostris	Lagenorhynchus albirostris	Lagenorhynchus_albirostris_Centroid	Delphinidae	Lagenorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	180	NA	NA	NA	NA	
+Cetacea	Lagenorhynchus	australis	Lagenorhynchus australis	Lagenorhynchus_australis_Centroid	Delphinidae	Lagenorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	120	NA	NA	NA	NA	
+Cetacea	Lagenorhynchus	cruciger	Lagenorhynchus cruciger	Lagenorhynchus_cruciger_Centroid	Delphinidae	Lagenorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	110	NA	NA	NA	NA	
+Cetacea	Lagenorhynchus	obliquidens	Lagenorhynchus obliquidens	Lagenorhynchus_obliquidens_Centroid	Delphinidae	Lagenorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	120	NA	NA	NA	NA	
+Cetacea	Lagenorhynchus	obscurus	Lagenorhynchus obscurus	Lagenorhynchus_obscurus_Centroid	Delphinidae	Lagenorhynchus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	127.5	NA	NA	NA	NA	
+Cetacea	Lissodelphis	borealis	Lissodelphis borealis	Lissodelphis_borealis_Centroid	Delphinidae	Lissodelphis	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	113	NA	NA	NA	NA	
+Cetacea	Lissodelphis	peronii	Lissodelphis peronii	Lissodelphis_peronii_Centroid	Delphinidae	Lissodelphis	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	116	NA	NA	NA	NA	
+Cetacea	Orcaella	brevirostris	Orcaella brevirostris	Orcaella_brevirostris_Centroid	Delphinidae	Orcaella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	190	NA	NA	NA	NA	
+Cetacea	Orcaella	heinsohni	Orcaella heinsohni	Orcaella_heinsohni_Centroid	Delphinidae	Orcaella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	227.8	NA	NA	NA	NA	
+Cetacea	Orcinus	orca	Orcinus orca	Orcinus_orca_Centroid	Delphinidae	Orcinus	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	4300	NA	NA	NA	NA	
+Cetacea	Peponocephala	electra	Peponocephala electra	Peponocephala_electra_Centroid	Delphinidae	Peponocephala	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	206	NA	NA	NA	NA	
+Cetacea	Pseudorca	crassidens	Pseudorca crassidens	Pseudorca_crassidens_Centroid	Delphinidae	Pseudorca	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	1360	NA	NA	NA	NA	
+Cetacea	Sotalia	fluviatilis	Sotalia fluviatilis	Sotalia_fluviatilis_Centroid	Delphinidae	Sotalia	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	55	NA	NA	NA	NA	
+Cetacea	Sotalia	guianensis	Sotalia guianensis	Sotalia_guianensis_Centroid	Delphinidae	Sotalia	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	80	NA	NA	NA	NA	
+Cetacea	Sousa	chinensis	Sousa chinensis	Sousa_chinensis_Centroid	Delphinidae	Sousa	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	280	NA	NA	NA	NA	
+Cetacea	Sousa	teuszii	Sousa teuszii	Sousa_teuszii_Centroid	Delphinidae	Sousa	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	100	NA	NA	NA	NA	
+Cetacea	Stenella	attenuata	Stenella attenuata	Stenella_attenuata_Centroid	Delphinidae	Stenella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	57.4	NA	NA	NA	NA	
+Cetacea	Stenella	clymene	Stenella clymene	Stenella_clymene_Centroid	Delphinidae	Stenella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	68	NA	NA	NA	NA	
+Cetacea	Stenella	coeruleoalba	Stenella coeruleoalba	Stenella_coeruleoalba_Centroid	Delphinidae	Stenella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	135.9	NA	NA	NA	NA	
+Cetacea	Stenella	frontalis	Stenella frontalis	Stenella_frontalis_Centroid	Delphinidae	Stenella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	110	NA	NA	NA	NA	
+Cetacea	Stenella	longirostris	Stenella longirostris	Stenella_longirostris_Centroid	Delphinidae	Stenella	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	50.5	NA	NA	NA	NA	
+Cetacea	Steno	bredanensis	Steno bredanensis	Steno_bredanensis_Centroid	Delphinidae	Steno	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	130	NA	NA	NA	NA	
+Cetacea	Tursiops	aduncus	Tursiops aduncus	Tursiops_aduncus_Centroid	Delphinidae	Tursiops	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	131.6	NA	NA	NA	NA	
+Cetacea	Tursiops	truncatus	Tursiops truncatus	Tursiops_truncatus_Centroid	Delphinidae	Tursiops	Delphinidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	175	NA	NA	NA	NA	
+Cetacea	Inia	geoffrensis	Inia geoffrensis	Inia_geoffrensis_Centroid	Iniidae	Inia	Iniidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	129.2	NA	NA	NA	NA	
+Cetacea	Lipotes	vexillifer	Lipotes vexillifer	Lipotes_vexillifer_Centroid	Iniidae	Lipotes	Iniidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	83.5	NA	NA	NA	NA	
+Cetacea	Pontoporia	blainvillei	Pontoporia blainvillei	Pontoporia_blainvillei_Centroid	Iniidae	Pontoporia	Iniidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	40.5	NA	NA	NA	NA	
+Cetacea	Delphinapterus	leucas	Delphinapterus leucas	Delphinapterus_leucas_Centroid	Monodontidae	Delphinapterus	Monodontidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	1360	NA	NA	NA	NA	
+Cetacea	Monodon	monoceros	Monodon monoceros	Monodon_monoceros_Centroid	Monodontidae	Monodon	Monodontidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	900	NA	NA	NA	NA	
+Cetacea	Neophocaena	asiaeorientalis	Neophocaena asiaeorientalis	Neophocaena_asiaeorientalis_Centroid	Phocoenidae	Neophocaena	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	33.5	NA	NA	NA	NA	
+Cetacea	Neophocaena	phocaenoides	Neophocaena phocaenoides	Neophocaena_phocaenoides_Centroid	Phocoenidae	Neophocaena	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	32.5	NA	NA	NA	NA	
+Cetacea	Phocoena	dioptrica	Phocoena dioptrica	Phocoena_dioptrica_Centroid	Phocoenidae	Phocoena	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	65	NA	NA	NA	NA	
+Cetacea	Phocoena	phocoena	Phocoena phocoena	Phocoena_phocoena_Centroid	Phocoenidae	Phocoena	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	52.5	NA	NA	NA	NA	
+Cetacea	Phocoena	sinus	Phocoena sinus	Phocoena_sinus_Centroid	Phocoenidae	Phocoena	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	42.5	NA	NA	NA	NA	
+Cetacea	Phocoena	spinipinnis	Phocoena spinipinnis	Phocoena_spinipinnis_Centroid	Phocoenidae	Phocoena	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	60	NA	NA	NA	NA	
+Cetacea	Phocoenoides	dalli	Phocoenoides dalli	Phocoenoides_dalli_Centroid	Phocoenidae	Phocoenoides	Phocoenidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	102.5	NA	NA	NA	NA	
+Cetacea	Kogia	breviceps	Kogia breviceps	Kogia_breviceps_Centroid	Physeteridae	Kogia	Physeteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	431.5	NA	NA	NA	NA	
+Cetacea	Kogia	sima	Kogia sima	Kogia_sima_Centroid	Physeteridae	Kogia	Physeteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	183.1	NA	NA	NA	NA	
+Cetacea	Physeter	macrocephalus	Physeter macrocephalus	Physeter_macrocephalus_Centroid	Physeteridae	Physeter	Physeteridae	NA	NA	NA	NA	NA	NA	NA	NA				NA	14025	NA	NA	NA	NA	
+Cetacea	Platanista	gangetica	Platanista gangetica	Platanista_gangetica_Centroid	Platanistidae	Platanista	Platanistidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	115	NA	NA	NA	NA	
+Cetacea	Berardius	arnuxii	Berardius arnuxii	Berardius_arnuxii_Centroid	Ziphiidae	Berardius	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	7000	NA	NA	NA	NA	
+Cetacea	Berardius	bairdii	Berardius bairdii	Berardius_bairdii_Centroid	Ziphiidae	Berardius	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	11380	NA	NA	NA	NA	
+Cetacea	Hyperoodon	ampullatus	Hyperoodon ampullatus	Hyperoodon_ampullatus_Centroid	Ziphiidae	Hyperoodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	5800	NA	NA	NA	NA	
+Cetacea	Hyperoodon	planifrons	Hyperoodon planifrons	Hyperoodon_planifrons_Centroid	Ziphiidae	Hyperoodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	3000	NA	NA	NA	NA	
+Cetacea	Indopacetus	pacificus	Indopacetus pacificus	Indopacetus_pacificus_Centroid	Ziphiidae	Indopacetus	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2200	NA	NA	NA	NA	
+Cetacea	Mesoplodon	bidens	Mesoplodon bidens	Mesoplodon_bidens_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	3400	NA	NA	NA	NA	
+Cetacea	Mesoplodon	bowdoini	Mesoplodon bowdoini	Mesoplodon_bowdoini_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2600	NA	NA	NA	NA	
+Cetacea	Mesoplodon	carlhubbsi	Mesoplodon carlhubbsi	Mesoplodon_carlhubbsi_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	3400	NA	NA	NA	NA	
+Cetacea	Mesoplodon	densirostris	Mesoplodon densirostris	Mesoplodon_densirostris_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2300	NA	NA	NA	NA	
+Cetacea	Mesoplodon	europaeus	Mesoplodon europaeus	Mesoplodon_europaeus_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	5600	NA	NA	NA	NA	
+Cetacea	Mesoplodon	ginkgodens	Mesoplodon ginkgodens	Mesoplodon_ginkgodens_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	1500	NA	NA	NA	NA	
+Cetacea	Mesoplodon	grayi	Mesoplodon grayi	Mesoplodon_grayi_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2900	NA	NA	NA	NA	
+Cetacea	Mesoplodon	hectori	Mesoplodon hectori	Mesoplodon_hectori_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	1000	NA	NA	NA	NA	
+Cetacea	Mesoplodon	layardii	Mesoplodon layardii	Mesoplodon_layardii_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	1500	NA	NA	NA	NA	
+Cetacea	Mesoplodon	mirus	Mesoplodon mirus	Mesoplodon_mirus_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2100	NA	NA	NA	NA	
+Cetacea	Mesoplodon	perrini	Mesoplodon perrini	Mesoplodon_perrini_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	877.8	NA	NA	NA	NA	
+Cetacea	Mesoplodon	peruvianus	Mesoplodon peruvianus	Mesoplodon_peruvianus_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	615.4	NA	NA	NA	NA	
+Cetacea	Mesoplodon	stejnegeri	Mesoplodon stejnegeri	Mesoplodon_stejnegeri_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	4800	NA	NA	NA	NA	
+Cetacea	Mesoplodon	traversii	Mesoplodon traversii	Mesoplodon_traversii_Centroid	Ziphiidae	Mesoplodon	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2371.8	NA	NA	NA	NA	
+Cetacea	Tasmacetus	shepherdi	Tasmacetus shepherdi	Tasmacetus_shepherdi_Centroid	Ziphiidae	Tasmacetus	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	2500	NA	NA	NA	NA	
+Cetacea	Ziphius	cavirostris	Ziphius cavirostris	Ziphius_cavirostris_Centroid	Ziphiidae	Ziphius	Ziphiidae	NA	NA	NA	NA	NA	NA	NA	NA				NA	4775	NA	NA	NA	NA	
+Perissodactyla	Equus	africanus	Equus africanus	Equus_africanus_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	by genus		275	275	275	NA	NA	NA	NA	
+Perissodactyla	Equus	ferus	Equus ferus	Equus_ferus_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	by genus		200	200	200	NA	NA	NA	NA	
+Perissodactyla	Equus	francisci	Equus francisci	Equus_francisci_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	by genus		370	370	367.6	NA	NA	NA	NA	
+Perissodactyla	Equus	grevyi	Equus grevyi	Equus_grevyi_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	old scores		385	385	350	384	395.5	408.00035	390	
+Perissodactyla	Equus	hemionus	Equus hemionus	Equus_hemionus_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	old scores		230	230	200	230	222.5	235.24807	NA	
+Perissodactyla	Equus	hydruntinus	Equus hydruntinus	Equus_hydruntinus_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	by genus		277	277	227.1	NA	NA	NA	NA	
+Perissodactyla	Equus	kiang	Equus kiang	Equus_kiang_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	old scores		275	275	250	275	345	281.13863	NA	
+Perissodactyla	Equus	ovodovi	Equus ovodovi	Equus_ovodovi_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	by genus		277	277	227.1	NA	NA	NA	NA	
+Perissodactyla	Equus	quagga	Equus quagga	Equus_quagga_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	old scores		310	310	175	313	287.5	400	NA	
+Perissodactyla	Equus	zebra	Equus zebra	Equus_zebra_Centroid	Equidae	Equus	Equidae	3	0	0	0	1	0	0	1	old scores		260	260	240	260	288	282.46213	270	
+Perissodactyla	Hippidion	devillei	Hippidion devillei	Hippidion_devillei_Centroid	Equidae	Hippidion	Equidae	3	0	0	0	1	0	0	1	from pictures		310	310	310.7	NA	NA	NA	NA	
+Perissodactyla	Hippidion	principale	Hippidion principale	Hippidion_principale_Centroid	Equidae	Hippidion	Equidae	3	0	0	0	1	0	0	1	from pictures		510	510	511	NA	NA	NA	NA	
+Perissodactyla	Ceratotherium	simum	Ceratotherium simum	Ceratotherium_simum_Centroid	Rhinocerotidae	Ceratotherium	Rhinocerotidae	3	0	0	0	1	0	0	1	old scores		2230	2230	2950	2230	2500	2285.93943	2220	
+Perissodactyla	Coelodonta	antiquitatis	Coelodonta antiquitatis	Coelodonta_antiquitatis_Centroid	Rhinocerotidae	Coelodonta	Rhinocerotidae	3	0	0	0	1	0	0	1	from pictures		2700	2700	2692.6	NA	NA	NA	NA	
+Perissodactyla	Dicerorhinus	sumatrensis	Dicerorhinus sumatrensis	Dicerorhinus_sumatrensis_Centroid	Rhinocerotidae	Dicerorhinus	Rhinocerotidae	1	0	1	0	0	0	1	1	old scores		1000	1000	1266.7	750	933	1046.15604	1120	
+Perissodactyla	Diceros	bicornis	Diceros bicornis	Diceros_bicornis_Centroid	Rhinocerotidae	Diceros	Rhinocerotidae	2	0	1	0	0	0	1	1	old scores		900	900	1180.5	869	1310	995.94054	952	
+Perissodactyla	Elasmotherium	sibiricum	Elasmotherium sibiricum	Elasmotherium_sibiricum_Centroid	Rhinocerotidae	Elasmotherium	Rhinocerotidae	3	0	0	0	1	0	0	1	from pictures		4000	4000	4100	NA	NA	NA	NA	
+Perissodactyla	Rhinoceros	sondaicus	Rhinoceros sondaicus	Rhinoceros_sondaicus_Centroid	Rhinocerotidae	Rhinoceros	Rhinocerotidae	1	0	1	0	0	0	1	1	old scores		1400	1400	1750	1400	1600	1750	997	
+Perissodactyla	Rhinoceros	unicornis	Rhinoceros unicornis	Rhinoceros_unicornis_Centroid	Rhinocerotidae	Rhinoceros	Rhinocerotidae	2	0	0	0	1	0	0	1	old scores		1600	1600	1602.3	1600	2205	1843.6558	1255	
+Perissodactyla	Stephanorhinus	hemitoechus	Stephanorhinus hemitoechus	Stephanorhinus_hemitoechus_Centroid	Rhinocerotidae	Stephanorhinus	Rhinocerotidae	1	0	1	0	0	0	1	1	from pictures	check hyp	2900	2900	2943.2	NA	NA	NA	NA	
+Perissodactyla	Stephanorhinus	kirchbergensis	Stephanorhinus kirchbergensis	Stephanorhinus_kirchbergensis_Centroid	Rhinocerotidae	Stephanorhinus	Rhinocerotidae	1	0	1	0	0	0	1	1	from pictures	check hyp	3600	3600	3630.9	NA	NA	NA	NA	
+Perissodactyla	Tapirus	augustus	Tapirus augustus	Tapirus_augustus_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	by genus		575	575	575.4	NA	NA	NA	NA	
+Perissodactyla	Tapirus	bairdii	Tapirus bairdii	Tapirus_bairdii_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	old scores		250	250	300	225	345	293.78159	300	
+Perissodactyla	Tapirus	indicus	Tapirus indicus	Tapirus_indicus_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	old scores		275	275	296.2	275	395	311.20919	NA	
+Perissodactyla	Tapirus	merriami	Tapirus merriami	Tapirus_merriami_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	by genus		320	320	317	NA	NA	NA	NA	
+Perissodactyla	Tapirus	pinchaque	Tapirus pinchaque	Tapirus_pinchaque_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	old scores		149	149	148.9	149	228	156.9234	NA	
+Perissodactyla	Tapirus	rondoniensis	Tapirus rondoniensis	Tapirus_rondoniensis_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	by genus		210	210	207.5	NA	NA	NA	NA	
+Perissodactyla	Tapirus	terrestris	Tapirus terrestris	Tapirus_terrestris_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	old scores		235	235	207.5	235	188.5	169.49664	175	
+Perissodactyla	Tapirus	veroensis	Tapirus veroensis	Tapirus_veroensis_Centroid	Tapiridae	Tapirus	Tapiridae	1	1	0	0	0	0	1	0	by genus		275	275	275	NA	NA	NA	NA	
+Primates	Archaeolemur	edwardsi	Archaeolemur edwardsi	Archaeolemur_edwardsi_Centroid	Archaeolemuridae	Archaeolemur	Archaeolemuridae	1	1	0	0	0	0	1	0	by genus		26.5	NA	26.5	NA	NA	NA	NA	
+Primates	Archaeolemur	majori	Archaeolemur majori	Archaeolemur_majori_Centroid	Archaeolemuridae	Archaeolemur	Archaeolemuridae	1	1	0	0	0	0	1	0	pictures		18	NA	18	NA	NA	NA	NA	
+Primates	Hadropithecus	stenognathus	Hadropithecus stenognathus	Hadropithecus_stenognathus_Centroid	Archaeolemuridae	Hadropithecus	Archaeolemuridae	1	1	0	0	0	0	1	0	by family		35	NA	35	NA	NA	NA	NA	
+Primates	Callimico	goeldii	Callimico goeldii	Callimico_goeldii_Centroid	Callitrichidae	Callimico	Callitrichidae	1	0	0	0	0	1	0	0			0.533	0.533	0.5	0.533	0.5725	0.558	NA	
+Primates	Callithrix	aurita	Callithrix aurita	Callithrix_aurita_Centroid	Callitrichidae	Callithrix	Callitrichidae	1	0	0	0	0	1	0	0			0.4	0.4	0.3	0.4	0.354	0.3862	NA	
+Primates	Callithrix	flaviceps	Callithrix flaviceps	Callithrix_flaviceps_Centroid	Callitrichidae	Callithrix	Callitrichidae	1	0	0	0	0	1	0	0			0.406	0.406	0.3	0.406	0.3415	0.37297	NA	
+Primates	Callithrix	geoffroyi	Callithrix geoffroyi	Callithrix_geoffroyi_Centroid	Callitrichidae	Callithrix	Callitrichidae	1	0	0	0	0	1	0	0			0.29	0.29	0.3	0.29	0.275	0.342	NA	
+Primates	Callithrix	jacchus	Callithrix jacchus	Callithrix_jacchus_Centroid	Callitrichidae	Callithrix	Callitrichidae	1	0	0	0	0	1	0	0			0.29	0.29	0.3	0.29	0.4975	0.29021	0.241	
+Primates	Callithrix	kuhlii	Callithrix kuhlii	Callithrix_kuhlii_Centroid	Callitrichidae	Callithrix	Callitrichidae	1	0	0	0	0	1	0	0			0.315	0.315	0.3	0.315	0.37	0.37499	NA	
+Primates	Callithrix	penicillata	Callithrix penicillata	Callithrix_penicillata_Centroid	Callitrichidae	Callithrix	Callitrichidae	1	0	0	0	0	1	0	0			0.307	0.307	0.3	0.307	0.317	0.33998	NA	
+Primates	Cebuella	pygmaea	Cebuella pygmaea	Cebuella_pygmaea_Centroid	Callitrichidae	Cebuella	Callitrichidae	1	0	0	0	0	1	0	0	by pictures, three cusps		0.1	NA	0.1	NA	NA	NA	NA	
+Primates	Leontopithecus	caissara	Leontopithecus caissara	Leontopithecus_caissara_Centroid	Callitrichidae	Leontopithecus	Callitrichidae	1	0	0	0	0	1	0	0			0.57	0.57	0.6	0.57	0.6235	0.60401	NA	
+Primates	Leontopithecus	chrysomelas	Leontopithecus chrysomelas	Leontopithecus_chrysomelas_Centroid	Callitrichidae	Leontopithecus	Callitrichidae	1	0	0	0	0	1	0	0			0.578	0.578	0.7	0.578	0.595	0.5728	NA	
+Primates	Leontopithecus	chrysopygus	Leontopithecus chrysopygus	Leontopithecus_chrysopygus_Centroid	Callitrichidae	Leontopithecus	Callitrichidae	1	0	0	0	0	1	0	0			0.575	0.575	0.7	0.575	0.5	0.65612	NA	
+Primates	Leontopithecus	rosalia	Leontopithecus rosalia	Leontopithecus_rosalia_Centroid	Callitrichidae	Leontopithecus	Callitrichidae	1	0	0	0	0	1	0	0			0.6	0.6	0.5	0.6	0.5805	0.59252	0.745	
+Primates	Mico	acariensis	Mico acariensis	Mico_acariensis_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.5	NA	0.5	NA	NA	NA	NA	
+Primates	Mico	argentatus	Mico argentatus	Mico_argentatus_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.4	NA	0.4	NA	NA	NA	NA	
+Primates	Mico	chrysoleucos	Mico chrysoleucos	Mico_chrysoleucos_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.5	NA	0.5	NA	NA	NA	NA	
+Primates	Mico	emiliae	Mico emiliae	Mico_emiliae_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Mico	humeralifer	Mico humeralifer	Mico_humeralifer_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Mico	humilis	Mico humilis	Mico_humilis_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.2	NA	0.2	NA	NA	NA	NA	
+Primates	Mico	intermedius	Mico intermedius	Mico_intermedius_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.4	NA	0.4	NA	NA	NA	NA	
+Primates	Mico	leucippe	Mico leucippe	Mico_leucippe_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.4	NA	0.4	NA	NA	NA	NA	
+Primates	Mico	marcai	Mico marcai	Mico_marcai_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Mico	mauesi	Mico mauesi	Mico_mauesi_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.4	NA	0.4	NA	NA	NA	NA	
+Primates	Mico	melanurus	Mico melanurus	Mico_melanurus_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Mico	nigriceps	Mico nigriceps	Mico_nigriceps_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.4	NA	0.4	NA	NA	NA	NA	
+Primates	Mico	rondoni	Mico rondoni	Mico_rondoni_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Mico	saterei	Mico saterei	Mico_saterei_Centroid	Callitrichidae	Mico	Callitrichidae	1	0	0	0	0	1	0	0	pictures, three cusps, uncertain		0.4	NA	0.4	NA	NA	NA	NA	
+Primates	Saguinus	bicolor	Saguinus bicolor	Saguinus_bicolor_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.43	0.43	0.5	0.43	0.462	0.465	NA	
+Primates	Saguinus	fuscicollis	Saguinus fuscicollis	Saguinus_fuscicollis_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.37	0.37	0.4	0.37	0.361	0.39399	0.387	
+Primates	Saguinus	geoffroyi	Saguinus geoffroyi	Saguinus_geoffroyi_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.499	0.499	0.5	0.499	0.564	0.4925	NA	
+Primates	Saguinus	imperator	Saguinus imperator	Saguinus_imperator_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.45	0.45	0.4	0.45	0.4025	0.40791	0.4	
+Primates	Saguinus	inustus	Saguinus inustus	Saguinus_inustus_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.46	0.46	0.4	0.46	0.6065	0.803	NA	
+Primates	Saguinus	labiatus	Saguinus labiatus	Saguinus_labiatus_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.501	0.501	0.6	0.501	0.47	0.50846	0.458	
+Primates	Saguinus	leucopus	Saguinus leucopus	Saguinus_leucopus_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.49	0.49	0.4	0.49	0.368	0.45668	0.44	
+Primates	Saguinus	martinsi	Saguinus martinsi	Saguinus_martinsi_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.5	0.5	0.6	0.35	NA	NA	NA	
+Primates	Saguinus	melanoleucus	Saguinus melanoleucus	Saguinus_melanoleucus_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.563	0.563	0.5	0.563	NA	NA	NA	
+Primates	Saguinus	midas	Saguinus midas	Saguinus_midas_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.5	0.5	0.5	0.5	0.4645	0.54056	0.315	
+Primates	Saguinus	mystax	Saguinus mystax	Saguinus_mystax_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.525	0.525	0.6	0.525	0.5	0.55587	0.543	
+Primates	Saguinus	niger	Saguinus niger	Saguinus_niger_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.5	0.5	0.6	0.355	0.293	NA	NA	
+Primates	Saguinus	nigricollis	Saguinus nigricollis	Saguinus_nigricollis_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.411	0.411	0.5	0.411	0.4345	0.45	0.36	
+Primates	Saguinus	oedipus	Saguinus oedipus	Saguinus_oedipus_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.411	0.411	0.4	0.411	0.5025	0.46204	0.6	
+Primates	Saguinus	tripartitus	Saguinus tripartitus	Saguinus_tripartitus_Centroid	Callitrichidae	Saguinus	Callitrichidae	1	0	0	0	0	1	0	0			0.385	0.385	0.4	0.385	0.3935	0.38505	NA	
+Primates	Alouatta	arctoidea	Alouatta arctoidea	Alouatta_arctoidea_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0	by genus		5.4	NA	5.4	NA	NA	NA	NA	
+Primates	Alouatta	belzebul	Alouatta belzebul	Alouatta_belzebul_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			6.4	6.4	6.4	6.4	6.4	6.15791	NA	
+Primates	Alouatta	caraya	Alouatta caraya	Alouatta_caraya_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			5.38	5.38	5.9	5.38	6.4775	5.57696	7.25	
+Primates	Alouatta	discolor	Alouatta discolor	Alouatta_discolor_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0	by genus		6.3	NA	6.3	NA	NA	NA	NA	
+Primates	Alouatta	guariba	Alouatta guariba	Alouatta_guariba_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			5.54	5.54	5.6	5.54	6.5	5.18833	NA	
+Primates	Alouatta	macconnelli	Alouatta macconnelli	Alouatta_macconnelli_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			6	6	7.6	6	NA	NA	NA	
+Primates	Alouatta	nigerrima	Alouatta nigerrima	Alouatta_nigerrima_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			6.6	6.6	7.7	6.6	NA	NA	NA	
+Primates	Alouatta	palliata	Alouatta palliata	Alouatta_palliata_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			6.68	6.68	7.3	6.68	6.7965	6.57699	6.55	
+Primates	Alouatta	pigra	Alouatta pigra	Alouatta_pigra_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			8.92	8.92	7	8.92	8.945	7.17206	6.5	
+Primates	Alouatta	sara	Alouatta sara	Alouatta_sara_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			6.6	6.6	6.6	6.6	6.611	6.61104	NA	
+Primates	Alouatta	seniculus	Alouatta seniculus	Alouatta_seniculus_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0			6.19	6.19	6.1	6.19	6.9125	6.39831	7.25	
+Primates	Alouatta	ululata	Alouatta ululata	Alouatta_ululata_Centroid	Cebidae	Alouatta	Atelidae	1	0	0	0	0	1	0	0	by genus		6.7	NA	6.7	NA	NA	NA	NA	
+Primates	Aotus	azarae	Aotus azarae	Aotus_azarae_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			1.21	1.21	1	1.21	1	0.92957	0.873	
+Primates	Aotus	brumbacki	Aotus brumbacki	Aotus_brumbacki_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Aotus	griseimembra	Aotus griseimembra	Aotus_griseimembra_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Aotus	jorgehernandezi	Aotus jorgehernandezi	Aotus_jorgehernandezi_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Aotus	lemurinus	Aotus lemurinus	Aotus_lemurinus_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			0.874	0.874	0.9	0.874	0.9	0.86596	0.873	
+Primates	Aotus	miconax	Aotus miconax	Aotus_miconax_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			0.8	0.8	0.8	0.8	0.9	0.8	NA	
+Primates	Aotus	nancymaae	Aotus nancymaae	Aotus_nancymaae_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			0.787	0.787	0.8	0.787	0.6875	0.79103	0.788	
+Primates	Aotus	nigriceps	Aotus nigriceps	Aotus_nigriceps_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			0.95	0.95	1.1	0.95	1	1.057	0.873	
+Primates	Aotus	trivirgatus	Aotus trivirgatus	Aotus_trivirgatus_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			0.834	0.834	0.9	0.834	0.84	0.9124	0.96	
+Primates	Aotus	vociferans	Aotus vociferans	Aotus_vociferans_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0			0.7	0.7	0.9	0.7	0.9365	0.87299	0.873	
+Primates	Aotus	zonalis	Aotus zonalis	Aotus_zonalis_Centroid	Cebidae	Aotus	Aotidae	1	0	0	0	0	1	0	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Ateles	belzebuth	Ateles belzebuth	Ateles_belzebuth_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			7.5	7.5	5	7.5	7.7	6.69242	6	
+Primates	Ateles	chamek	Ateles chamek	Ateles_chamek_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			7	7	6	7	6.565	7.05392	NA	
+Primates	Ateles	fusciceps	Ateles fusciceps	Ateles_fusciceps_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			7.76	7.76	9.1	7.76	7.5815	9.06794	NA	
+Primates	Ateles	geoffroyi	Ateles geoffroyi	Ateles_geoffroyi_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			7	7	5.3	7.5	5.4175	7.5824	6	
+Primates	Ateles	hybridus	Ateles hybridus	Ateles_hybridus_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			8.5	8.5	8.7	6	8.65	NA	NA	
+Primates	Ateles	marginatus	Ateles marginatus	Ateles_marginatus_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			5.5	5.5	6	5.5	7.25	6.22928	NA	
+Primates	Ateles	paniscus	Ateles paniscus	Ateles_paniscus_Centroid	Cebidae	Ateles	Atelidae	1	0	0	0	0	1	0	0			7.76	7.76	7.9	7.76	7.7675	8.69725	7	
+Primates	Brachyteles	arachnoides	Brachyteles arachnoides	Brachyteles_arachnoides_Centroid	Cebidae	Brachyteles	Atelidae	1	0	0	0	0	1	0	0			10.8	10.8	13.5	10.8	10.95	10.53731	13.5	
+Primates	Brachyteles	hypoxanthus	Brachyteles hypoxanthus	Brachyteles_hypoxanthus_Centroid	Cebidae	Brachyteles	Atelidae	1	0	0	0	0	1	0	0			8.5	8.5	8.9	13	12.25	NA	NA	
+Primates	Caipora	bambuiorum	Caipora bambuiorum	Caipora_bambuiorum_Centroid	Cebidae	Caipora	Atelidae	1	0	0	0	0	1	0	0	pictures		20.5	NA	20.5	NA	NA	NA	NA	
+Primates	Cebus	aequatorialis	Cebus aequatorialis	Cebus_aequatorialis_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0	by genus		2.2	NA	2.2	NA	NA	NA	NA	
+Primates	Cebus	albifrons	Cebus albifrons	Cebus_albifrons_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0			2.7	2.7	2.6	2.7	2.71	2.50968	2.52	
+Primates	Cebus	brunneus	Cebus brunneus	Cebus_brunneus_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0	by genus		2.4	NA	2.4	NA	NA	NA	NA	
+Primates	Cebus	capucinus	Cebus capucinus	Cebus_capucinus_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0			3.1	3.1	2.7	3.1	2.615	3.00599	2.6	
+Primates	Cebus	cesarae	Cebus cesarae	Cebus_cesarae_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0	by genus		2.5	NA	2.5	NA	NA	NA	NA	
+Primates	Cebus	cuscinus	Cebus cuscinus	Cebus_cuscinus_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0	by genus		2.9	NA	2.9	NA	NA	NA	NA	
+Primates	Cebus	kaapori	Cebus kaapori	Cebus_kaapori_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0			3.05	3.05	2.6	3.05	2.8	3	NA	
+Primates	Cebus	malitiosus	Cebus malitiosus	Cebus_malitiosus_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0	by genus		2.5	NA	2.5	NA	NA	NA	NA	
+Primates	Cebus	versicolor	Cebus versicolor	Cebus_versicolor_Centroid	Cebidae	Cebus	Cebidae	1	0	0	0	0	1	0	0	by genus		2.5	NA	2.5	NA	NA	NA	NA	
+Primates	Lagothrix	cana	Lagothrix cana	Lagothrix_cana_Centroid	Cebidae	Lagothrix	Atelidae	1	0	0	0	0	1	0	0			8.5	8.5	6.4	8.5	12.325	NA	NA	
+Primates	Lagothrix	lagotricha	Lagothrix lagotricha	Lagothrix_lagotricha_Centroid	Cebidae	Lagothrix	Atelidae	1	0	0	0	0	1	0	0			7.15	7.15	6.8	7.15	7.275	6.26369	6.8	
+Primates	Lagothrix	lugens	Lagothrix lugens	Lagothrix_lugens_Centroid	Cebidae	Lagothrix	Atelidae	1	0	0	0	0	1	0	0			8.15	8.15	6	8.15	NA	NA	NA	
+Primates	Lagothrix	poeppigii	Lagothrix poeppigii	Lagothrix_poeppigii_Centroid	Cebidae	Lagothrix	Atelidae	1	0	0	0	0	1	0	0			6	6	4.2	8.5	6.75	NA	NA	
+Primates	Oreonax	flavicauda	Oreonax flavicauda	Oreonax_flavicauda_Centroid	Cebidae	Oreonax	Atelidae	1	0	0	0	0	1	0	0			8	8	6.8	10	8.15	8.22912	6.8	
+Primates	Protopithecus	brasiliensis	Protopithecus brasiliensis	Protopithecus_brasiliensis_Centroid	Cebidae	Protopithecus	Atelidae	1	0	0	0	0	1	0	0	pictures, bad image thoug+AF0-		24.9	NA	24.9	NA	NA	NA	NA	
+Primates	Saimiri	boliviensis	Saimiri boliviensis	Saimiri_boliviensis_Centroid	Cebidae	Saimiri	Cebidae	1	0	0	0	0	1	0	0			0.811	0.811	0.6	0.811	0.75	0.79945	0.8	
+Primates	Saimiri	oerstedii	Saimiri oerstedii	Saimiri_oerstedii_Centroid	Cebidae	Saimiri	Cebidae	1	0	0	0	0	1	0	0			0.789	0.789	0.3	0.789	0.689	0.71418	0.665	
+Primates	Saimiri	sciureus	Saimiri sciureus	Saimiri_sciureus_Centroid	Cebidae	Saimiri	Cebidae	1	0	0	0	0	1	0	0			0.721	0.721	0.7	0.721	0.8825	0.74947	0.665	
+Primates	Saimiri	ustus	Saimiri ustus	Saimiri_ustus_Centroid	Cebidae	Saimiri	Cebidae	1	0	0	0	0	1	0	0			0.86	0.86	1	0.86	0.8995	0.88647	NA	
+Primates	Saimiri	vanzolinii	Saimiri vanzolinii	Saimiri_vanzolinii_Centroid	Cebidae	Saimiri	Cebidae	1	0	0	0	0	1	0	0			0.8	0.8	0.8	0.8	0.89	0.78377	NA	
+Primates	Sapajus	apella	Sapajus apella	Sapajus_apella_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		2.5	NA	2.5	NA	NA	NA	NA	
+Primates	Sapajus	cay	Sapajus cay	Sapajus_cay_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		2.7	NA	2.7	NA	NA	NA	NA	
+Primates	Sapajus	flavius	Sapajus flavius	Sapajus_flavius_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		2.5	NA	2.5	NA	NA	NA	NA	
+Primates	Sapajus	libidinosus	Sapajus libidinosus	Sapajus_libidinosus_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		3.2	NA	3.2	NA	NA	NA	NA	
+Primates	Sapajus	macrocephalus	Sapajus macrocephalus	Sapajus_macrocephalus_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		3.2	NA	3.2	NA	NA	NA	NA	
+Primates	Sapajus	nigritus	Sapajus nigritus	Sapajus_nigritus_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		3.2	NA	3.2	NA	NA	NA	NA	
+Primates	Sapajus	robustus	Sapajus robustus	Sapajus_robustus_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		3.2	NA	3.2	NA	NA	NA	NA	
+Primates	Sapajus	xanthosternos	Sapajus xanthosternos	Sapajus_xanthosternos_Centroid	Cebidae	Sapajus	Cebidae	1	0	0	0	0	1	0	0	pictures		3.2	NA	3.2	NA	NA	NA	NA	
+Primates	Allenopithecus	nigroviridis	Allenopithecus nigroviridis	Allenopithecus_nigroviridis_Centroid	Cercopithecidae	Allenopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			4.7	4.7	4.8	3.3	5	4.74996	NA	
+Primates	Allochrocebus	lhoesti	Allochrocebus lhoesti	Allochrocebus_lhoesti_Centroid	Cercopithecidae	Allochrocebus	Cercopithecidae	1	0	0	0	0	1	0	0	by genus		5.4	NA	5.4	NA	NA	NA	NA	
+Primates	Allochrocebus	preussi	Allochrocebus preussi	Allochrocebus_preussi_Centroid	Cercopithecidae	Allochrocebus	Cercopithecidae	1	0	0	0	0	1	0	0	by genus		5.2	NA	5.2	NA	NA	NA	NA	
+Primates	Allochrocebus	solatus	Allochrocebus solatus	Allochrocebus_solatus_Centroid	Cercopithecidae	Allochrocebus	Cercopithecidae	1	0	0	0	0	1	0	0	by genus		6.5	NA	6.5	NA	NA	NA	NA	
+Primates	Cercocebus	agilis	Cercocebus agilis	Cercocebus_agilis_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0			7.11	7.11	8	7.11	6.35	7.10562	NA	
+Primates	Cercocebus	atys	Cercocebus atys	Cercocebus_atys_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0			6.94	6.94	7.6	6.94	6.825	6.94124	5.8	
+Primates	Cercocebus	chrysogaster	Cercocebus chrysogaster	Cercocebus_chrysogaster_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0			11.5	11.5	9.5	11.5	NA	NA	NA	
+Primates	Cercocebus	galeritus	Cercocebus galeritus	Cercocebus_galeritus_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0			5.43	5.43	7.4	5.43	9	7.07766	6	
+Primates	Cercocebus	lunulatus	Cercocebus lunulatus	Cercocebus_lunulatus_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0	by genus		7.3	NA	7.3	NA	NA	NA	NA	
+Primates	Cercocebus	sanjei	Cercocebus sanjei	Cercocebus_sanjei_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0			8.1	8.1	8	11.5	8	NA	NA	
+Primates	Cercocebus	torquatus	Cercocebus torquatus	Cercocebus_torquatus_Centroid	Cercopithecidae	Cercocebus	Cercopithecidae	1	0	0	0	0	1	0	0			7.04	7.04	8.1	7.04	6.875	7.29307	5.8	
+Primates	Cercopithecus	ascanius	Cercopithecus ascanius	Cercopithecus_ascanius_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3.31	3.31	3.5	3.31	4.4	3.54024	3.55	
+Primates	Cercopithecus	campbelli	Cercopithecus campbelli	Cercopithecus_campbelli_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3.15	3.15	4.1	3.15	3.75	3.62773	3.6	
+Primates	Cercopithecus	cephus	Cercopithecus cephus	Cercopithecus_cephus_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			2.87	2.87	3.5	2.87	3.1025	3.44488	3.5	
+Primates	Cercopithecus	denti	Cercopithecus denti	Cercopithecus_denti_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			4	4	4	4	2.07	NA	NA	
+Primates	Cercopithecus	diana	Cercopithecus diana	Cercopithecus_diana_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			4.22	4.22	4.2	4.22	5	4.35891	4.3	
+Primates	Cercopithecus	dryas	Cercopithecus dryas	Cercopithecus_dryas_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3	3	3.1	3	2.935	2.78406	NA	
+Primates	Cercopithecus	erythrogaster	Cercopithecus erythrogaster	Cercopithecus_erythrogaster_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3.25	3.25	2.5	3.25	3.05	3.44488	NA	
+Primates	Cercopithecus	erythrotis	Cercopithecus erythrotis	Cercopithecus_erythrotis_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3.25	3.25	3.9	3.25	4	3.25498	NA	
+Primates	Cercopithecus	hamlyni	Cercopithecus hamlyni	Cercopithecus_hamlyni_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			7.25	7.25	6.9	4.43	6.68	NA	NA	
+Primates	Cercopithecus	lowei	Cercopithecus lowei	Cercopithecus_lowei_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			5.5	5.5	4	5.5	NA	NA	NA	
+Primates	Cercopithecus	mitis	Cercopithecus mitis	Cercopithecus_mitis_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			6	6	5	6	7.35	5.04129	4.5	
+Primates	Cercopithecus	mona	Cercopithecus mona	Cercopithecus_mona_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			3.83	3.83	4.2	3.83	4.5	3.98017	NA	
+Primates	Cercopithecus	neglectus	Cercopithecus neglectus	Cercopithecus_neglectus_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			4.67	4.67	5.5	4.67	5.98	5.32452	4.35	
+Primates	Cercopithecus	nictitans	Cercopithecus nictitans	Cercopithecus_nictitans_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			4.23	4.23	5.8	4.23	4.975	5.25691	4.95	
+Primates	Cercopithecus	petaurista	Cercopithecus petaurista	Cercopithecus_petaurista_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3.65	3.65	2.8	3.65	3.4	3.23367	1.8	
+Primates	Cercopithecus	roloway	Cercopithecus roloway	Cercopithecus_roloway_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			5.5	5.5	4.6	5.5	NA	NA	NA	
+Primates	Cercopithecus	sclateri	Cercopithecus sclateri	Cercopithecus_sclateri_Centroid	Cercopithecidae	Cercopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			3.25	3.25	3.4	3.25	3.25	3.06729	NA	
+Primates	Chlorocebus	aethiops	Chlorocebus aethiops	Chlorocebus_aethiops_Centroid	Cercopithecidae	Chlorocebus	Cercopithecidae	1	0	0	0	0	1	0	0			3.73	3.73	4	3.73	5.185	3.69599	4.05	
+Primates	Chlorocebus	cynosuros	Chlorocebus cynosuros	Chlorocebus_cynosuros_Centroid	Cercopithecidae	Chlorocebus	Cercopithecidae	1	0	0	0	0	1	0	0			5	5	4	5	3.4	NA	NA	
+Primates	Chlorocebus	djamdjamensis	Chlorocebus djamdjamensis	Chlorocebus_djamdjamensis_Centroid	Cercopithecidae	Chlorocebus	Cercopithecidae	1	1	0	0	0	0	1	0			5	5	4	5	NA	NA	NA	
+Primates	Chlorocebus	pygerythrus	Chlorocebus pygerythrus	Chlorocebus_pygerythrus_Centroid	Cercopithecidae	Chlorocebus	Cercopithecidae	1	0	0	0	0	1	0	0			5	5	4	5	6.205	NA	NA	
+Primates	Chlorocebus	sabaeus	Chlorocebus sabaeus	Chlorocebus_sabaeus_Centroid	Cercopithecidae	Chlorocebus	Cercopithecidae	1	0	0	0	0	1	0	0			5	5	4	5	2.698	NA	NA	
+Primates	Chlorocebus	tantalus	Chlorocebus tantalus	Chlorocebus_tantalus_Centroid	Cercopithecidae	Chlorocebus	Cercopithecidae	1	0	0	0	0	1	0	0			5	5	4.7	5	3	NA	NA	
+Primates	Colobus	angolensis	Colobus angolensis	Colobus_angolensis_Centroid	Cercopithecidae	Colobus	Cercopithecidae	1	1	0	0	0	0	1	0			14.5	14.5	14.5	8.63	14.5	8.99031	NA	
+Primates	Colobus	guereza	Colobus guereza	Colobus_guereza_Centroid	Cercopithecidae	Colobus	Cercopithecidae	1	1	0	0	0	0	1	0			11.4	11.4	16.5	8	11.5	9.92588	9.85	
+Primates	Colobus	polykomos	Colobus polykomos	Colobus_polykomos_Centroid	Cercopithecidae	Colobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.51	8.51	9.1	8.51	14	8.79729	7.1	
+Primates	Colobus	satanas	Colobus satanas	Colobus_satanas_Centroid	Cercopithecidae	Colobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.91	8.91	12	8.91	9	9.05532	9.5	
+Primates	Colobus	vellerosus	Colobus vellerosus	Colobus_vellerosus_Centroid	Cercopithecidae	Colobus	Cercopithecidae	1	1	0	0	0	0	1	0			9.3	9.3	11.5	7.7	8.4	7.70018	NA	
+Primates	Erythrocebus	patas	Erythrocebus patas	Erythrocebus_patas_Centroid	Cercopithecidae	Erythrocebus	Cercopithecidae	1	0	0	0	0	1	0	0			5.88	5.88	8.1	5.88	13.9125	7.9663	7.8	
+Primates	Lophocebus	albigena	Lophocebus albigena	Lophocebus_albigena_Centroid	Cercopithecidae	Lophocebus	Cercopithecidae	1	0	0	0	0	1	0	0			7	7	7	7	6.675	7.41871	8	
+Primates	Lophocebus	aterrimus	Lophocebus aterrimus	Lophocebus_aterrimus_Centroid	Cercopithecidae	Lophocebus	Cercopithecidae	1	0	0	0	0	1	0	0			6.51	6.51	7	6.51	7.5	6.51037	NA	
+Primates	Macaca	arctoides	Macaca arctoides	Macaca_arctoides_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			8.85	8.85	5	7.31	10.15	9.35804	NA	
+Primates	Macaca	assamensis	Macaca assamensis	Macaca_assamensis_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			9.1	9.1	12	9.1	9.93	8.54689	NA	
+Primates	Macaca	cyclopis	Macaca cyclopis	Macaca_cyclopis_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			6.32	6.32	6	6.32	11	5.74894	NA	
+Primates	Macaca	fascicularis	Macaca fascicularis	Macaca_fascicularis_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			3.46	3.46	4	3.46	5.105	4.56932	5	
+Primates	Macaca	fuscata	Macaca fuscata	Macaca_fuscata_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			8.86	8.86	10.4	8.86	11.65	10.11476	NA	
+Primates	Macaca	hecki	Macaca hecki	Macaca_hecki_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			11.2	11.2	9	15	NA	NA	NA	
+Primates	Macaca	leonina	Macaca leonina	Macaca_leonina_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			5.5	5.5	6.5	15	7.025	NA	NA	
+Primates	Macaca	maura	Macaca maura	Macaca_maura_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			5.58	5.58	7.3	5.58	7.43	7.2903	NA	
+Primates	Macaca	mulatta	Macaca mulatta	Macaca_mulatta_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			7.7	7.7	3.7	5.41	8	6.45519	7.85	
+Primates	Macaca	munzala	Macaca munzala	Macaca_munzala_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0	by genus		15	NA	15	NA	NA	NA	NA	
+Primates	Macaca	nemestrina	Macaca nemestrina	Macaca_nemestrina_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			6.13	6.13	6.3	6.13	9.3935	7.82078	9.1	
+Primates	Macaca	nigra	Macaca nigra	Macaca_nigra_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			6.21	6.21	6.4	6.21	7.4	7.35939	9.1	
+Primates	Macaca	nigrescens	Macaca nigrescens	Macaca_nigrescens_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			7.7	7.7	9.5	15	NA	NA	NA	
+Primates	Macaca	ochreata	Macaca ochreata	Macaca_ochreata_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			2.75	2.75	2.6	2.75	6.375	2.7455	NA	
+Primates	Macaca	pagensis	Macaca pagensis	Macaca_pagensis_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			4.53	4.53	6.3	4.53	6.75	4.53466	NA	
+Primates	Macaca	radiata	Macaca radiata	Macaca_radiata_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			3.74	3.74	3.7	3.74	5.75	4.99999	NA	
+Primates	Macaca	siberu	Macaca siberu	Macaca_siberu_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			6.75	6.75	4.5	15	NA	NA	NA	
+Primates	Macaca	silenus	Macaca silenus	Macaca_silenus_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			4.88	4.88	4.8	4.88	8.5	5.99525	NA	
+Primates	Macaca	sinica	Macaca sinica	Macaca_sinica_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			4.44	4.44	3.6	4.44	5.06	4.65599	5.15	
+Primates	Macaca	sylvanus	Macaca sylvanus	Macaca_sylvanus_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			9.75	9.75	12.2	9.75	9.575	11.47153	12.7	
+Primates	Macaca	thibetana	Macaca thibetana	Macaca_thibetana_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			10	10	12	10	18.905	10.59306	NA	
+Primates	Macaca	tonkeana	Macaca tonkeana	Macaca_tonkeana_Centroid	Cercopithecidae	Macaca	Cercopithecidae	1	0	0	0	0	1	0	0			10	10	9	10	11.75	10.03553	NA	
+Primates	Mandrillus	leucophaeus	Mandrillus leucophaeus	Mandrillus_leucophaeus_Centroid	Cercopithecidae	Mandrillus	Cercopithecidae	1	0	0	0	0	1	0	0			18	18	15	9.09	25.75	14.2533	NA	
+Primates	Mandrillus	sphinx	Mandrillus sphinx	Mandrillus_sphinx_Centroid	Cercopithecidae	Mandrillus	Cercopithecidae	1	0	0	0	0	1	0	0			18.3	18.3	18.2	11.9	31	16.68506	NA	
+Primates	Miopithecus	ogouensis	Miopithecus ogouensis	Miopithecus_ogouensis_Centroid	Cercopithecidae	Miopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			1.35	1.35	1.3	1.35	NA	NA	NA	
+Primates	Miopithecus	talapoin	Miopithecus talapoin	Miopithecus_talapoin_Centroid	Cercopithecidae	Miopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			1.13	1.13	1.5	1.13	1.3675	1.24886	1.25	
+Primates	Nasalis	larvatus	Nasalis larvatus	Nasalis_larvatus_Centroid	Cercopithecidae	Nasalis	Cercopithecidae	1	1	0	0	0	0	1	0			11.5	11.5	9	15.1	15.3	12.26565	7.97	
+Primates	Papio	anubis	Papio anubis	Papio_anubis_Centroid	Cercopithecidae	Papio	Cercopithecidae	1	0	0	0	0	1	0	0			21.4	21.4	28.3	21.4	19.145	17.72856	19.5	
+Primates	Papio	cynocephalus	Papio cynocephalus	Papio_cynocephalus_Centroid	Cercopithecidae	Papio	Cercopithecidae	1	0	0	0	0	1	0	0			15.1	15.1	19.5	15.1	27.7215	15.82215	17.5	
+Primates	Papio	hamadryas	Papio hamadryas	Papio_hamadryas_Centroid	Cercopithecidae	Papio	Cercopithecidae	1	0	0	0	0	1	0	0			14	14	15	14	23.1	14.00708	13.9	
+Primates	Papio	kindae	Papio kindae	Papio_kindae_Centroid	Cercopithecidae	Papio	Cercopithecidae	1	0	0	0	0	1	0	0	by genus		13	NA	13	NA	NA	NA	NA	
+Primates	Papio	papio	Papio papio	Papio_papio_Centroid	Cercopithecidae	Papio	Cercopithecidae	1	0	0	0	0	1	0	0			18	18	15.5	18	15.04	18.02605	19.5	
+Primates	Papio	ursinus	Papio ursinus	Papio_ursinus_Centroid	Cercopithecidae	Papio	Cercopithecidae	1	0	0	0	0	1	0	0			23	23	27.9	20.6	27.77	17.72944	18.6	
+Primates	Piliocolobus	badius	Piliocolobus badius	Piliocolobus_badius_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			6.16	6.16	7.8	6.16	9.8	8.4304	8.15	
+Primates	Piliocolobus	bouvieri	Piliocolobus bouvieri	Piliocolobus_bouvieri_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0	by genus		10.3	NA	10.3	NA	NA	NA	NA	
+Primates	Piliocolobus	epieni	Piliocolobus epieni	Piliocolobus_epieni_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0	by genus		10.3	NA	10.3	NA	NA	NA	NA	
+Primates	Piliocolobus	gordonorum	Piliocolobus gordonorum	Piliocolobus_gordonorum_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.2	8.2	8	8.2	10	NA	NA	
+Primates	Piliocolobus	kirkii	Piliocolobus kirkii	Piliocolobus_kirkii_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			7.16	7.16	5.6	7.16	8.25	7.15829	NA	
+Primates	Piliocolobus	oustaleti	Piliocolobus oustaleti	Piliocolobus_oustaleti_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0	by genus		10.3	NA	10.3	NA	NA	NA	NA	
+Primates	Piliocolobus	pennantii	Piliocolobus pennantii	Piliocolobus_pennantii_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			7.95	7.95	10.9	7.95	8.4	10.896	NA	
+Primates	Piliocolobus	preussi	Piliocolobus preussi	Piliocolobus_preussi_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.87	8.87	9.8	8.87	9.319	8.86571	NA	
+Primates	Piliocolobus	rufomitratus	Piliocolobus rufomitratus	Piliocolobus_rufomitratus_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.44	8.44	8	8.44	8.2	8.03075	NA	
+Primates	Piliocolobus	temminckii	Piliocolobus temminckii	Piliocolobus_temminckii_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0	by genus		7.3	NA	7.3	NA	NA	NA	NA	
+Primates	Piliocolobus	tephrosceles	Piliocolobus tephrosceles	Piliocolobus_tephrosceles_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.2	8.2	9.7	8.2	9.75	NA	NA	
+Primates	Piliocolobus	tholloni	Piliocolobus tholloni	Piliocolobus_tholloni_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0			8.2	8.2	8.6	8.2	NA	NA	NA	
+Primates	Piliocolobus	waldronae	Piliocolobus waldronae	Piliocolobus_waldronae_Centroid	Cercopithecidae	Piliocolobus	Cercopithecidae	1	1	0	0	0	0	1	0	by genus		5.9	NA	5.9	NA	NA	NA	NA	
+Primates	Presbytis	chrysomelas	Presbytis chrysomelas	Presbytis_chrysomelas_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	0	0	0	0	1	0	0			6.55	6.55	7	6.55	7	NA	NA	
+Primates	Presbytis	comata	Presbytis comata	Presbytis_comata_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	0	0	0	0	1	0	0			6.2	6.2	6.2	6.2	7	6.55007	NA	
+Primates	Presbytis	femoralis	Presbytis femoralis	Presbytis_femoralis_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			6.23	6.23	7	6.23	6.5395	7.02691	NA	
+Primates	Presbytis	frontata	Presbytis frontata	Presbytis_frontata_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			5.62	5.62	6	5.62	5.86	6.0966	NA	
+Primates	Presbytis	hosei	Presbytis hosei	Presbytis_hosei_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			5.91	5.91	6.5	5.91	6.25	6.27778	NA	
+Primates	Presbytis	melalophos	Presbytis melalophos	Presbytis_melalophos_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			6.53	6.53	6.3	6.53	5	6.43912	6.3	
+Primates	Presbytis	natunae	Presbytis natunae	Presbytis_natunae_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	0	0	0	0	1	0	0			6.55	6.55	4.9	6.55	5.499	NA	NA	
+Primates	Presbytis	potenziani	Presbytis potenziani	Presbytis_potenziani_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			6.29	6.29	6.4	6.29	6.335	6.44953	NA	
+Primates	Presbytis	rubicunda	Presbytis rubicunda	Presbytis_rubicunda_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			6.23	6.23	6.3	6.23	6.155	6.34853	6.3	
+Primates	Presbytis	siamensis	Presbytis siamensis	Presbytis_siamensis_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	0	0	0	0	1	0	0			5.9	5.9	7	5.9	6.3875	5.89506	NA	
+Primates	Presbytis	thomasi	Presbytis thomasi	Presbytis_thomasi_Centroid	Cercopithecidae	Presbytis	Cercopithecidae	1	1	0	0	0	0	1	0			6.73	6.73	6.7	6.73	6.55	6.68999	NA	
+Primates	Procolobus	verus	Procolobus verus	Procolobus_verus_Centroid	Cercopithecidae	Procolobus	Cercopithecidae	1	1	0	0	0	0	1	0			3.6	3.6	4	3.6	3.95	3.97786	3.9	
+Primates	Pygathrix	cinerea	Pygathrix cinerea	Pygathrix_cinerea_Centroid	Cercopithecidae	Pygathrix	Cercopithecidae	1	0	0	0	0	1	0	0			10.9	10.9	8.3	10.9	NA	NA	NA	
+Primates	Pygathrix	nemaeus	Pygathrix nemaeus	Pygathrix_nemaeus_Centroid	Cercopithecidae	Pygathrix	Cercopithecidae	1	0	0	0	0	1	0	0			8.31	8.31	8.3	8.31	11.78	9.4111	NA	
+Primates	Pygathrix	nigripes	Pygathrix nigripes	Pygathrix_nigripes_Centroid	Cercopithecidae	Pygathrix	Cercopithecidae	1	1	0	0	0	0	1	0			10.3	10.3	8.3	10.3	9.5	10.33332	NA	
+Primates	Rhinopithecus	avunculus	Rhinopithecus avunculus	Rhinopithecus_avunculus_Centroid	Cercopithecidae	Rhinopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			11	11	8	11.3	11.5	9.08619	NA	
+Primates	Rhinopithecus	bieti	Rhinopithecus bieti	Rhinopithecus_bieti_Centroid	Cercopithecidae	Rhinopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			9.96	9.96	10	9.96	13.4	11.00054	NA	
+Primates	Rhinopithecus	brelichi	Rhinopithecus brelichi	Rhinopithecus_brelichi_Centroid	Cercopithecidae	Rhinopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			12.3	12.3	11.5	12.3	12.25	12.26715	NA	
+Primates	Rhinopithecus	roxellana	Rhinopithecus roxellana	Rhinopithecus_roxellana_Centroid	Cercopithecidae	Rhinopithecus	Cercopithecidae	1	1	0	0	0	0	1	0			14.8	14.8	12.1	14.8	22.75	13.4568	NA	
+Primates	Rhinopithecus	strykeri	Rhinopithecus strykeri	Rhinopithecus_strykeri_Centroid	Cercopithecidae	Rhinopithecus	Cercopithecidae	1	1	0	0	0	0	1	0	by genus		11.2	NA	11.2	NA	NA	NA	NA	
+Primates	Rungwecebus	kipunji	Rungwecebus kipunji	Rungwecebus_kipunji_Centroid	Cercopithecidae	Rungwecebus	Cercopithecidae	1	0	0	0	0	0	0	1	pictures, almost fortified		13	13	13	NA	NA	NA	NA	
+Primates	Semnopithecus	ajax	Semnopithecus ajax	Semnopithecus_ajax_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			14.5	14.5	20.1	14.5	NA	NA	NA	
+Primates	Semnopithecus	dussumieri	Semnopithecus dussumieri	Semnopithecus_dussumieri_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			14.5	14.5	13.1	14.5	NA	NA	NA	
+Primates	Semnopithecus	entellus	Semnopithecus entellus	Semnopithecus_entellus_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			17.2	17.2	14.5	17.2	14	12.67929	12.8	
+Primates	Semnopithecus	hector	Semnopithecus hector	Semnopithecus_hector_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			14.5	14.5	17.4	14.5	NA	NA	NA	
+Primates	Semnopithecus	hypoleucos	Semnopithecus hypoleucos	Semnopithecus_hypoleucos_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			10	10	8.9	10	10.027	10.02665	NA	
+Primates	Semnopithecus	priam	Semnopithecus priam	Semnopithecus_priam_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			14.5	14.5	12.4	14.5	NA	NA	NA	
+Primates	Semnopithecus	schistaceus	Semnopithecus schistaceus	Semnopithecus_schistaceus_Centroid	Cercopithecidae	Semnopithecus	Cercopithecidae	1	0	0	0	0	1	0	0			14.5	14.5	17.4	14.5	18.5	NA	NA	
+Primates	Simias	concolor	Simias concolor	Simias_concolor_Centroid	Cercopithecidae	Simias	Cercopithecidae	1	1	0	0	0	0	1	0			7.39	7.39	8	7.39	7.675	7.3939	NA	
+Primates	Theropithecus	gelada	Theropithecus gelada	Theropithecus_gelada_Centroid	Cercopithecidae	Theropithecus	Cercopithecidae	2	0	0	0	0	0	0	1			12.2	12.2	17	12.2	12.285	15.96411	17.1	
+Primates	Trachypithecus	auratus	Trachypithecus auratus	Trachypithecus_auratus_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			9.72	9.72	7.1	9.72	8.36	9.7196	NA	
+Primates	Trachypithecus	barbei	Trachypithecus barbei	Trachypithecus_barbei_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			9.1	9.1	7.5	9.1	NA	NA	NA	
+Primates	Trachypithecus	cristatus	Trachypithecus cristatus	Trachypithecus_cristatus_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			6.19	6.19	5.2	6.19	5.935	7.17681	8.35	
+Primates	Trachypithecus	delacouri	Trachypithecus delacouri	Trachypithecus_delacouri_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			9.1	9.1	8.9	9.1	8.35	NA	NA	
+Primates	Trachypithecus	francoisi	Trachypithecus francoisi	Trachypithecus_francoisi_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			7.33	7.33	7.3	7.33	9.15	8.13993	NA	
+Primates	Trachypithecus	geei	Trachypithecus geei	Trachypithecus_geei_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			8.1	8.1	8.3	8.1	8.83	8.356	NA	
+Primates	Trachypithecus	germaini	Trachypithecus germaini	Trachypithecus_germaini_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			9.1	9.1	7.2	9.1	NA	NA	NA	
+Primates	Trachypithecus	hatinhensis	Trachypithecus hatinhensis	Trachypithecus_hatinhensis_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			7	7	6.3	9.1	7.5	NA	NA	
+Primates	Trachypithecus	johnii	Trachypithecus johnii	Trachypithecus_johnii_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			11.6	11.6	11.9	11.6	11.9	10.59508	8.15	
+Primates	Trachypithecus	laotum	Trachypithecus laotum	Trachypithecus_laotum_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			7	7	5.8	9.1	NA	NA	NA	
+Primates	Trachypithecus	obscurus	Trachypithecus obscurus	Trachypithecus_obscurus_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			6.43	6.43	7	6.43	6	7.24788	8.35	
+Primates	Trachypithecus	phayrei	Trachypithecus phayrei	Trachypithecus_phayrei_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			7.09	7.09	8.4	7.09	7	7.68172	NA	
+Primates	Trachypithecus	pileatus	Trachypithecus pileatus	Trachypithecus_pileatus_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			10.9	10.9	11.4	10.9	10.895	11.21993	11.45	
+Primates	Trachypithecus	poliocephalus	Trachypithecus poliocephalus	Trachypithecus_poliocephalus_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			9.1	9.1	7.8	9.1	13.35	NA	NA	
+Primates	Trachypithecus	shortridgei	Trachypithecus shortridgei	Trachypithecus_shortridgei_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	0	0	0	0	1	0	0			11.5	11.5	28.5	9.1	NA	NA	NA	
+Primates	Trachypithecus	vetulus	Trachypithecus vetulus	Trachypithecus_vetulus_Centroid	Cercopithecidae	Trachypithecus	Cercopithecidae	1	1	0	0	0	0	1	0			7.04	7.04	8.8	7.04	6.25	7.20508	8.15	
+Primates	Allocebus	trichotis	Allocebus trichotis	Allocebus_trichotis_Centroid	Cheirogaleidae	Allocebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.088	0.088	0.1	0.088	0.068	0.07809	NA	
+Primates	Cheirogaleus	crossleyi	Cheirogaleus crossleyi	Cheirogaleus_crossleyi_Centroid	Cheirogaleidae	Cheirogaleus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.389	0.389	0.4	0.389	0.375	NA	NA	
+Primates	Cheirogaleus	major	Cheirogaleus major	Cheirogaleus_major_Centroid	Cheirogaleidae	Cheirogaleus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.394	0.394	0.4	0.394	0.5335	0.44602	NA	
+Primates	Cheirogaleus	medius	Cheirogaleus medius	Cheirogaleus_medius_Centroid	Cheirogaleidae	Cheirogaleus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.197	0.197	0.2	0.197	0.25	0.19676	0.177	
+Primates	Cheirogaleus	minusculus	Cheirogaleus minusculus	Cheirogaleus_minusculus_Centroid	Cheirogaleidae	Cheirogaleus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.389	0.389	0.2	0.389	NA	NA	NA	
+Primates	Cheirogaleus	sibreei	Cheirogaleus sibreei	Cheirogaleus_sibreei_Centroid	Cheirogaleidae	Cheirogaleus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.389	0.389	0.3	0.389	NA	NA	NA	
+Primates	Microcebus	arnholdi	Microcebus arnholdi	Microcebus_arnholdi_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.051	0.051	NA	NA	NA	NA	NA	
+Primates	Microcebus	berthae	Microcebus berthae	Microcebus_berthae_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.033	0.033	NA	0.033	0.034	0.03345	NA	
+Primates	Microcebus	bongolavensis	Microcebus bongolavensis	Microcebus_bongolavensis_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.055	0.055	0.1	NA	NA	NA	NA	
+Primates	Microcebus	danfossi	Microcebus danfossi	Microcebus_danfossi_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.06	0.06	0.1	0.04	NA	NA	NA	
+Primates	Microcebus	gerpi	Microcebus gerpi	Microcebus_gerpi_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.068	0.068	0.1	NA	NA	NA	NA	
+Primates	Microcebus	griseorufus	Microcebus griseorufus	Microcebus_griseorufus_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.07	0.07	0.1	0.07	0.0605	0.07024	NA	
+Primates	Microcebus	jollyae	Microcebus jollyae	Microcebus_jollyae_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.06	0.06	0.1	NA	NA	NA	NA	
+Primates	Microcebus	lehilahytsara	Microcebus lehilahytsara	Microcebus_lehilahytsara_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.046	0.046	NA	NA	NA	NA	NA	
+Primates	Microcebus	macarthurii	Microcebus macarthurii	Microcebus_macarthurii_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.053	0.053	0.1	NA	NA	NA	NA	
+Primates	Microcebus	mamiratra	Microcebus mamiratra	Microcebus_mamiratra_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.055	0.055	0.1	NA	NA	NA	NA	
+Primates	Microcebus	margotmarshae	Microcebus margotmarshae	Microcebus_margotmarshae_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.049	0.049	NA	NA	NA	NA	NA	
+Primates	Microcebus	marohita	Microcebus marohita	Microcebus_marohita_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.089	0.089	0.1	NA	NA	NA	NA	
+Primates	Microcebus	mittermeieri	Microcebus mittermeieri	Microcebus_mittermeieri_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.04	0.04	NA	NA	NA	NA	NA	
+Primates	Microcebus	murinus	Microcebus murinus	Microcebus_murinus_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.071	0.071	0.1	0.071	0.0745	0.069	0.725	
+Primates	Microcebus	myoxinus	Microcebus myoxinus	Microcebus_myoxinus_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.031	0.031	NA	0.031	0.0395	0.03123	NA	
+Primates	Microcebus	ravelobensis	Microcebus ravelobensis	Microcebus_ravelobensis_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.056	0.056	0.1	0.059	0.0635	0.0586	NA	
+Primates	Microcebus	rufus	Microcebus rufus	Microcebus_rufus_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.043	0.043	NA	0.043	0.064	0.04839	NA	
+Primates	Microcebus	sambiranensis	Microcebus sambiranensis	Microcebus_sambiranensis_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.049	0.049	NA	0.049	0.044	0.04906	NA	
+Primates	Microcebus	simmonsi	Microcebus simmonsi	Microcebus_simmonsi_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.053	0.053	0.1	NA	NA	NA	NA	
+Primates	Microcebus	tavaratra	Microcebus tavaratra	Microcebus_tavaratra_Centroid	Cheirogaleidae	Microcebus	Cheirogaleidae	1	0	0	0	0	1	0	0			0.068	0.068	0.1	0.068	0.061	0.06801	NA	
+Primates	Mirza	coquereli	Mirza coquereli	Mirza_coquereli_Centroid	Cheirogaleidae	Mirza	Cheirogaleidae	1	0	0	0	0	1	0	0			0.307	0.307	0.3	0.307	0.315	0.3265	0.385	
+Primates	Mirza	zaza	Mirza zaza	Mirza_zaza_Centroid	Cheirogaleidae	Mirza	Cheirogaleidae	1	0	0	0	0	1	0	0	by genus		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Phaner	electromontis	Phaner electromontis	Phaner_electromontis_Centroid	Cheirogaleidae	Phaner	Cheirogaleidae	1	0	0	0	0	1	0	0			0.4	0.4	0.4	0.4	0.425	NA	NA	
+Primates	Phaner	furcifer	Phaner furcifer	Phaner_furcifer_Centroid	Cheirogaleidae	Phaner	Cheirogaleidae	1	0	0	0	0	1	0	0			0.4	0.4	0.4	0.4	0.4	0.40987	0.425	
+Primates	Phaner	pallescens	Phaner pallescens	Phaner_pallescens_Centroid	Cheirogaleidae	Phaner	Cheirogaleidae	1	0	0	0	0	1	0	0			0.4	0.4	0.3	0.4	0.33	NA	NA	
+Primates	Phaner	parienti	Phaner parienti	Phaner_parienti_Centroid	Cheirogaleidae	Phaner	Cheirogaleidae	1	0	0	0	0	1	0	0			0.4	0.4	0.4	0.4	0.425	NA	NA	
+Primates	Daubentonia	madagascariensis	Daubentonia madagascariensis	Daubentonia_madagascariensis_Centroid	Daubentoniidae	Daubentonia	Daubentoniidae	1	0	0	0	0	1	0	0			2.56	2.56	2.5	2.56	3	2.73137	NA	
+Primates	Daubentonia	robustus	Daubentonia robustus	Daubentonia_robustus_Centroid	Daubentoniidae	Daubentonia	Daubentoniidae	1	0	0	0	0	1	0	0	by genus		14	NA	14	NA	NA	NA	NA	
+Primates	Euoticus	elegantulus	Euoticus elegantulus	Euoticus_elegantulus_Centroid	Galagidae	Euoticus	Galagidae	1	0	0	0	0	1	0	0			0.3	0.28	0.3	NA	NA	NA	NA	
+Primates	Euoticus	pallidus	Euoticus pallidus	Euoticus_pallidus_Centroid	Galagidae	Euoticus	Galagidae	1	0	0	0	0	1	0	0			0.28	0.28	0.2	0.28	0.295	0.27737	NA	
+Primates	Galago	gallarum	Galago gallarum	Galago_gallarum_Centroid	Galagidae	Galago	Galagidae	1	0	0	0	0	1	0	0			0.2	0.2	0.2	0.2	0.225	0.25	NA	
+Primates	Galago	matschiei	Galago matschiei	Galago_matschiei_Centroid	Galagidae	Galago	Galagidae	1	0	0	0	0	1	0	0			0.2	0.21	0.2	0.21	0.21	0.21161	NA	
+Primates	Galago	moholi	Galago moholi	Galago_moholi_Centroid	Galagidae	Galago	Galagidae	1	0	0	0	0	1	0	0			0.2	0.18	0.2	0.18	0.1695	0.19196	NA	
+Primates	Galago	senegalensis	Galago senegalensis	Galago_senegalensis_Centroid	Galagidae	Galago	Galagidae	1	0	0	0	0	1	0	0			0.2	0.201	0.2	0.201	0.305	0.2152	0.225	
+Primates	Galagoides	cocos	Galagoides cocos	Galagoides_cocos_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.144	0.144	0.1	NA	NA	NA	NA	
+Primates	Galagoides	demidoff	Galagoides demidoff	Galagoides_demidoff_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.061	0.061	0.1	NA	NA	NA	NA	
+Primates	Galagoides	granti	Galagoides granti	Galagoides_granti_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.134	0.134	0.2	NA	NA	NA	NA	
+Primates	Galagoides	orinus	Galagoides orinus	Galagoides_orinus_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.09	0.09	0.1	NA	NA	NA	NA	
+Primates	Galagoides	rondoensis	Galagoides rondoensis	Galagoides_rondoensis_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.068	0.068	0.1	NA	NA	NA	NA	
+Primates	Galagoides	thomasi	Galagoides thomasi	Galagoides_thomasi_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.116	0.116	0.1	NA	NA	NA	NA	
+Primates	Galagoides	zanzibaricus	Galagoides zanzibaricus	Galagoides_zanzibaricus_Centroid	Galagidae	Galagoides	Galagidae	1	0	0	0	0	1	0	0	by genus		0.145	0.145	0.1	NA	NA	NA	NA	
+Primates	Otolemur	crassicaudatus	Otolemur crassicaudatus	Otolemur_crassicaudatus_Centroid	Galagidae	Otolemur	Galagidae	1	0	0	0	0	1	0	0			1.14	1.14	1.5	1.14	1.275	1.20661	0.9	
+Primates	Otolemur	garnettii	Otolemur garnettii	Otolemur_garnettii_Centroid	Galagidae	Otolemur	Galagidae	1	0	0	0	0	1	0	0			0.731	0.731	0.8	0.731	0.932	0.81117	NA	
+Primates	Sciurocheirus	alleni	Sciurocheirus alleni	Sciurocheirus_alleni_Centroid	Galagidae	Sciurocheirus	Galagidae	1	0	0	0	0	1	0	0	by genus		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Sciurocheirus	gabonensis	Sciurocheirus gabonensis	Sciurocheirus_gabonensis_Centroid	Galagidae	Sciurocheirus	Galagidae	1	0	0	0	0	1	0	0	by genus		0.3	NA	0.3	NA	NA	NA	NA	
+Primates	Gorilla	beringei	Gorilla beringei	Gorilla_beringei_Centroid	Hominidae	Gorilla	Hominidae	1	0	0	0	0	1	0	0			149	149	130	149	135	149.32519	NA	
+Primates	Gorilla	gorilla	Gorilla gorilla	Gorilla_gorilla_Centroid	Hominidae	Gorilla	Hominidae	1	0	0	0	0	0	0	1			101	101	121	101	184	112.58899	127	
+Primates	Homo	floresiensis	Homo floresiensis	Homo_floresiensis_Centroid	Hominidae	Homo	Hominidae	1	0	0	0	0	1	0	0	by genus		29.4	NA	29.4	NA	NA	NA	NA	
+Primates	Homo	neanderthalensis	Homo neanderthalensis	Homo_neanderthalensis_Centroid	Hominidae	Homo	Hominidae	1	0	0	0	0	1	0	0	by genus		76	NA	76	NA	NA	NA	NA	
+Primates	Homo	sapiens	Homo sapiens	Homo_sapiens_Centroid	Hominidae	Homo	Hominidae	1	0	0	0	0	1	0	0			58.5	58.5	59.5	58.5	NA	58.54063	NA	
+Primates	Homo	spDenisova	Homo spDenisova	Homo_spDenisova_Centroid	Hominidae	Homo	Hominidae	1	0	0	0	0	1	0	0	by genus		76	NA	76	NA	NA	NA	NA	
+Primates	Pan	paniscus	Pan paniscus	Pan_paniscus_Centroid	Hominidae	Pan	Hominidae	1	0	0	0	0	1	0	0			32.7	32.7	34	32.7	44	35.11995	22.7	
+Primates	Pan	troglodytes	Pan troglodytes	Pan_troglodytes_Centroid	Hominidae	Pan	Hominidae	1	0	0	0	0	1	0	0			37.6	37.6	42.5	37.6	53	45	45	
+Primates	Pongo	abelii	Pongo abelii	Pongo_abelii_Centroid	Hominidae	Pongo	Hominidae	1	0	0	0	0	1	0	0			67.5	67.5	56.8	39.7	64.848	39.69612	NA	
+Primates	Pongo	pygmaeus	Pongo pygmaeus	Pongo_pygmaeus_Centroid	Hominidae	Pongo	Hominidae	1	0	0	0	0	1	0	0			60	60	57.1	37.1	65	53.40829	53	
+Primates	Hoolock	hoolock	Hoolock hoolock	Hoolock_hoolock_Centroid	Hylobatidae	Hoolock	Hylobatidae	1	0	0	0	0	1	0	0	by family		6.5	NA	6.5	NA	NA	NA	NA	
+Primates	Hoolock	leuconedys	Hoolock leuconedys	Hoolock_leuconedys_Centroid	Hylobatidae	Hoolock	Hylobatidae	1	0	0	0	0	1	0	0	by family		7.2	NA	7.2	NA	NA	NA	NA	
+Primates	Hylobates	agilis	Hylobates agilis	Hylobates_agilis_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			5.67	5.67	5.7	5.67	6	5.82908	5.9	
+Primates	Hylobates	albibarbis	Hylobates albibarbis	Hylobates_albibarbis_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			6	6	5.7	6	5.822	NA	NA	
+Primates	Hylobates	klossii	Hylobates klossii	Hylobates_klossii_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			5.8	5.8	5.8	5.8	5.8	5.82229	5.8	
+Primates	Hylobates	lar	Hylobates lar	Hylobates_lar_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			5.54	5.54	4.9	5.54	5.95	5.57861	5.8	
+Primates	Hylobates	moloch	Hylobates moloch	Hylobates_moloch_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			6.42	6.42	6.5	6.42	6.5	5.86081	NA	
+Primates	Hylobates	muelleri	Hylobates muelleri	Hylobates_muelleri_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			5.53	5.53	6	5.53	6	5.90981	6.1	
+Primates	Hylobates	pileatus	Hylobates pileatus	Hylobates_pileatus_Centroid	Hylobatidae	Hylobates	Hylobatidae	1	0	0	0	0	1	0	0			5.47	5.47	5.4	5.47	7.225	5.54237	NA	
+Primates	Nomascus	concolor	Nomascus concolor	Nomascus_concolor_Centroid	Hylobatidae	Nomascus	Hylobatidae	1	0	0	0	0	1	0	0			6.39	6.39	7.5	6.39	6.75	6.41047	NA	
+Primates	Nomascus	gabriellae	Nomascus gabriellae	Nomascus_gabriellae_Centroid	Hylobatidae	Nomascus	Hylobatidae	1	0	0	0	0	1	0	0			9	9	8	9	8.4	NA	NA	
+Primates	Nomascus	hainanus	Nomascus hainanus	Nomascus_hainanus_Centroid	Hylobatidae	Nomascus	Hylobatidae	1	0	0	0	0	1	0	0			8.25	8.25	7.5	8.25	NA	NA	NA	
+Primates	Nomascus	leucogenys	Nomascus leucogenys	Nomascus_leucogenys_Centroid	Hylobatidae	Nomascus	Hylobatidae	1	0	0	0	0	1	0	0			7.37	7.37	8	7.37	6.46	7.32	NA	
+Primates	Nomascus	nasutus	Nomascus nasutus	Nomascus_nasutus_Centroid	Hylobatidae	Nomascus	Hylobatidae	1	0	0	0	0	1	0	0	by genus		8	NA	8	NA	NA	NA	NA	
+Primates	Nomascus	siki	Nomascus siki	Nomascus_siki_Centroid	Hylobatidae	Nomascus	Hylobatidae	1	0	0	0	0	1	0	0			7.25	7.25	8	7.25	NA	NA	NA	
+Primates	Symphalangus	syndactylus	Symphalangus syndactylus	Symphalangus_syndactylus_Centroid	Hylobatidae	Symphalangus	Hylobatidae	1	0	0	0	0	1	0	0			10.5	10.5	10	10.5	11	10.839	10.7	
+Primates	Avahi	betsileo	Avahi betsileo	Avahi_betsileo_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Avahi	cleesei	Avahi cleesei	Avahi_cleesei_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Avahi	laniger	Avahi laniger	Avahi_laniger_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0			1.18	1.18	1.3	1.18	0.96	1.09228	1.07	
+Primates	Avahi	meridionalis	Avahi meridionalis	Avahi_meridionalis_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0	by genus		1.1	NA	1.1	NA	NA	NA	NA	
+Primates	Avahi	mooreorum	Avahi mooreorum	Avahi_mooreorum_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0			0.8	0.8	0.9	0.8	NA	NA	NA	
+Primates	Avahi	occidentalis	Avahi occidentalis	Avahi_occidentalis_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0			0.829	0.829	0.8	0.829	1.15	0.82898	NA	
+Primates	Avahi	peyrierasi	Avahi peyrierasi	Avahi_peyrierasi_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Avahi	ramanantsoavanai	Avahi ramanantsoavanai	Avahi_ramanantsoavanai_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Avahi	unicolor	Avahi unicolor	Avahi_unicolor_Centroid	Indridae	Avahi	Indriidae	1	0	0	0	0	1	0	0			0.9	0.9	0.8	0.9	0.85	NA	NA	
+Primates	Indri	indri	Indri indri	Indri_indri_Centroid	Indridae	Indri	Indriidae	1	0	0	0	0	1	0	0			7.92	7.92	8	7.92	7.9	8.56548	12.5	
+Primates	Propithecus	candidus	Propithecus candidus	Propithecus_candidus_Centroid	Indridae	Propithecus	Indriidae	1	0	0	0	0	1	0	0	by genus		5.8	NA	5.8	NA	NA	NA	NA	
+Primates	Propithecus	coquereli	Propithecus coquereli	Propithecus_coquereli_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			4.19	4.19	3.9	4.19	3.9	4.18927	NA	
+Primates	Propithecus	coronatus	Propithecus coronatus	Propithecus_coronatus_Centroid	Indridae	Propithecus	Indriidae	1	0	0	0	0	1	0	0	by genus		3.9	NA	3.9	NA	NA	NA	NA	
+Primates	Propithecus	deckenii	Propithecus deckenii	Propithecus_deckenii_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			5	5	4	5	3.75	NA	NA	
+Primates	Propithecus	diadema	Propithecus diadema	Propithecus_diadema_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			6.1	6.1	5.2	6.1	5.75	6.56899	NA	
+Primates	Propithecus	edwardsi	Propithecus edwardsi	Propithecus_edwardsi_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			6.57	6.57	5.8	6.57	5.7865	6.57327	NA	
+Primates	Propithecus	perrieri	Propithecus perrieri	Propithecus_perrieri_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			5	5	4.3	5	4.9	NA	NA	
+Primates	Propithecus	tattersalli	Propithecus tattersalli	Propithecus_tattersalli_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			3.49	3.49	3.5	3.49	5	3.53139	NA	
+Primates	Propithecus	verreauxi	Propithecus verreauxi	Propithecus_verreauxi_Centroid	Indridae	Propithecus	Indriidae	1	1	0	0	0	0	1	0			3.66	3.66	3.2	3.66	4.475	3.58826	3.6	
+Primates	Eulemur	albifrons	Eulemur albifrons	Eulemur_albifrons_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.5	2.5	2.3	2.5	2.07	NA	NA	
+Primates	Eulemur	cinereiceps	Eulemur cinereiceps	Eulemur_cinereiceps_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.5	2.5	1.9	2.5	2.25	NA	NA	
+Primates	Eulemur	collaris	Eulemur collaris	Eulemur_collaris_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.5	2.5	2.4	2.5	2.305	NA	NA	
+Primates	Eulemur	coronatus	Eulemur coronatus	Eulemur_coronatus_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			1.39	1.39	1.6	1.39	1.8	1.69985	NA	
+Primates	Eulemur	flavifrons	Eulemur flavifrons	Eulemur_flavifrons_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0	by genus		1.9	NA	1.9	NA	NA	NA	NA	
+Primates	Eulemur	fulvus	Eulemur fulvus	Eulemur_fulvus_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.11	2.11	2.5	2.11	2.8	2.37699	2.1	
+Primates	Eulemur	macaco	Eulemur macaco	Eulemur_macaco_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.13	2.13	1.9	2.13	2.095	2.47043	NA	
+Primates	Eulemur	mongoz	Eulemur mongoz	Eulemur_mongoz_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			1.55	1.55	1.4	1.55	2	1.77113	1.7	
+Primates	Eulemur	rubriventer	Eulemur rubriventer	Eulemur_rubriventer_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			1.96	1.96	2	1.96	2.0075	2.0154	NA	
+Primates	Eulemur	rufifrons	Eulemur rufifrons	Eulemur_rufifrons_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0	by genus		1.8	NA	1.8	NA	NA	NA	NA	
+Primates	Eulemur	rufus	Eulemur rufus	Eulemur_rufus_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.21	2.21	2.4	2.21	2.375	2.39462	NA	
+Primates	Eulemur	sanfordi	Eulemur sanfordi	Eulemur_sanfordi_Centroid	Lemuridae	Eulemur	Lemuridae	1	1	0	0	0	0	1	0			2.39	2.39	2.2	2.39	2.15	2.39403	NA	
+Primates	Hapalemur	alaotrensis	Hapalemur alaotrensis	Hapalemur_alaotrensis_Centroid	Lemuridae	Hapalemur	Lemuridae	1	1	0	0	0	0	1	0			1.62	1.62	1.2	1.62	1.3585	1.61683	NA	
+Primates	Hapalemur	aureus	Hapalemur aureus	Hapalemur_aureus_Centroid	Lemuridae	Hapalemur	Lemuridae	1	1	0	0	0	0	1	0			1.46	1.46	1.4	1.46	1.75	1.56241	NA	
+Primates	Hapalemur	griseus	Hapalemur griseus	Hapalemur_griseus_Centroid	Lemuridae	Hapalemur	Lemuridae	1	1	0	0	0	0	1	0			1.2	1.2	0.9	1.2	1.335	0.916	NA	
+Primates	Hapalemur	meridionalis	Hapalemur meridionalis	Hapalemur_meridionalis_Centroid	Lemuridae	Hapalemur	Lemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Hapalemur	occidentalis	Hapalemur occidentalis	Hapalemur_occidentalis_Centroid	Lemuridae	Hapalemur	Lemuridae	1	1	0	0	0	0	1	0			1.3	1.3	0.8	1.75	0.75	NA	NA	
+Primates	Lemur	catta	Lemur catta	Lemur_catta_Centroid	Lemuridae	Lemur	Lemuridae	1	0	0	0	0	1	0	0			2.3	2.3	2.9	2.3	2.373	2.62648	2.7	
+Primates	Pachylemur	insignis	Pachylemur insignis	Pachylemur_insignis_Centroid	Lemuridae	Pachylemur	Lemuridae	1	0	0	0	0	1	0	0	pictures, three cusps		11.5	NA	11.5	NA	NA	NA	NA	
+Primates	Pachylemur	jullyi	Pachylemur jullyi	Pachylemur_jullyi_Centroid	Lemuridae	Pachylemur	Lemuridae	1	0	0	0	0	1	0	0	pictures, three cusps		13	NA	13	NA	NA	NA	NA	
+Primates	Prolemur	simus	Prolemur simus	Prolemur_simus_Centroid	Lemuridae	Prolemur	Lemuridae	1	0	0	0	0	1	0	0			1.73	1.73	2.4	1.73	1.75	2.03041	NA	
+Primates	Varecia	rubra	Varecia rubra	Varecia_rubra_Centroid	Lemuridae	Varecia	Lemuridae	1	1	0	0	0	0	1	0			3.87	3.87	3.5	3.87	3.75	3.8726	NA	
+Primates	Varecia	variegata	Varecia variegata	Varecia_variegata_Centroid	Lemuridae	Varecia	Lemuridae	1	1	0	0	0	0	1	0			3.43	3.43	3.4	3.43	3.125	3.84999	NA	
+Primates	Arctocebus	aureus	Arctocebus aureus	Arctocebus_aureus_Centroid	Lorisidae	Arctocebus	Lorisidae	1	0	0	0	0	1	0	0			0.21	0.21	0.2	0.21	0.21	0.23416	NA	
+Primates	Arctocebus	calabarensis	Arctocebus calabarensis	Arctocebus_calabarensis_Centroid	Lorisidae	Arctocebus	Lorisidae	1	0	0	0	0	1	0	0			0.366	0.366	0.2	0.309	0.3075	0.25801	0.21	
+Primates	Loris	lydekkerianus	Loris lydekkerianus	Loris_lydekkerianus_Centroid	Lorisidae	Loris	Lorisidae	1	0	0	0	0	1	0	0			0.254	0.254	0.2	0.254	0.287	0.25406	NA	
+Primates	Loris	tardigradus	Loris tardigradus	Loris_tardigradus_Centroid	Lorisidae	Loris	Lorisidae	1	0	0	0	0	1	0	0			0.237	0.237	0.2	0.237	0.2165	0.24922	0.22	
+Primates	Nycticebus	bengalensis	Nycticebus bengalensis	Nycticebus_bengalensis_Centroid	Lorisidae	Nycticebus	Lorisidae	1	0	0	0	0	1	0	0			1.14	1.14	1.5	1.14	1.0685	1.13736	NA	
+Primates	Nycticebus	coucang	Nycticebus coucang	Nycticebus_coucang_Centroid	Lorisidae	Nycticebus	Lorisidae	1	0	0	0	0	1	0	0			0.966	0.966	0.8	0.966	1.1325	0.92455	NA	
+Primates	Nycticebus	javanicus	Nycticebus javanicus	Nycticebus_javanicus_Centroid	Lorisidae	Nycticebus	Lorisidae	1	0	0	0	0	1	0	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Nycticebus	menagensis	Nycticebus menagensis	Nycticebus_menagensis_Centroid	Lorisidae	Nycticebus	Lorisidae	1	0	0	0	0	1	0	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Nycticebus	pygmaeus	Nycticebus pygmaeus	Nycticebus_pygmaeus_Centroid	Lorisidae	Nycticebus	Lorisidae	1	0	0	0	0	1	0	0			0.5	0.5	0.9	0.307	0.865	0.34232	NA	
+Primates	Perodicticus	edwardsi	Perodicticus edwardsi	Perodicticus_edwardsi_Centroid	Lorisidae	Perodicticus	Lorisidae	1	0	0	0	0	1	0	0	by genus		1.2	NA	1.2	NA	NA	NA	NA	
+Primates	Perodicticus	ibeanus	Perodicticus ibeanus	Perodicticus_ibeanus_Centroid	Lorisidae	Perodicticus	Lorisidae	1	0	0	0	0	1	0	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Perodicticus	potto	Perodicticus potto	Perodicticus_potto_Centroid	Lorisidae	Perodicticus	Lorisidae	1	0	0	0	0	1	0	0			1.05	1.05	1.1	1.05	1.069	1.08181	1.15	
+Primates	Lepilemur	aeeclis	Lepilemur aeeclis	Lepilemur_aeeclis_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Lepilemur	ahmansonorum	Lepilemur ahmansonorum	Lepilemur_ahmansonorum_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.6	NA	0.6	NA	NA	NA	NA	
+Primates	Lepilemur	ankaranensis	Lepilemur ankaranensis	Lepilemur_ankaranensis_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.7	0.7	0.8	0.7	NA	NA	NA	
+Primates	Lepilemur	betsileo	Lepilemur betsileo	Lepilemur_betsileo_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		1.1	NA	1.1	NA	NA	NA	NA	
+Primates	Lepilemur	dorsalis	Lepilemur dorsalis	Lepilemur_dorsalis_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.5	0.5	0.9	0.5	0.75	0.50385	NA	
+Primates	Lepilemur	edwardsi	Lepilemur edwardsi	Lepilemur_edwardsi_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.921	0.921	0.9	0.921	0.8	0.82158	NA	
+Primates	Lepilemur	fleuretae	Lepilemur fleuretae	Lepilemur_fleuretae_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Lepilemur	grewcockorum	Lepilemur grewcockorum	Lepilemur_grewcockorum_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.9	0.9	0.8	0.9	NA	NA	NA	
+Primates	Lepilemur	hollandorum	Lepilemur hollandorum	Lepilemur_hollandorum_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Lepilemur	hubbardorum	Lepilemur hubbardorum	Lepilemur_hubbardorum_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		1	NA	1	NA	NA	NA	NA	
+Primates	Lepilemur	jamesorum	Lepilemur jamesorum	Lepilemur_jamesorum_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Lepilemur	leucopus	Lepilemur leucopus	Lepilemur_leucopus_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.606	0.606	0.5	0.606	0.6	0.59999	NA	
+Primates	Lepilemur	microdon	Lepilemur microdon	Lepilemur_microdon_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.97	0.97	0.9	0.97	0.9	0.95233	NA	
+Primates	Lepilemur	milanoii	Lepilemur milanoii	Lepilemur_milanoii_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.7	NA	0.7	NA	NA	NA	NA	
+Primates	Lepilemur	mittermeieri	Lepilemur mittermeieri	Lepilemur_mittermeieri_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Lepilemur	mustelinus	Lepilemur mustelinus	Lepilemur_mustelinus_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.65	0.65	1	0.65	0.85	0.66903	0.6	
+Primates	Lepilemur	otto	Lepilemur otto	Lepilemur_otto_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Lepilemur	petteri	Lepilemur petteri	Lepilemur_petteri_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.6	NA	0.6	NA	NA	NA	NA	
+Primates	Lepilemur	randrianasoloi	Lepilemur randrianasoloi	Lepilemur_randrianasoloi_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Lepilemur	ruficaudatus	Lepilemur ruficaudatus	Lepilemur_ruficaudatus_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.77	0.77	0.8	0.77	0.725	0.76336	NA	
+Primates	Lepilemur	sahamalazensis	Lepilemur sahamalazensis	Lepilemur_sahamalazensis_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.8	NA	0.8	NA	NA	NA	NA	
+Primates	Lepilemur	scottorum	Lepilemur scottorum	Lepilemur_scottorum_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Lepilemur	seali	Lepilemur seali	Lepilemur_seali_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Lepilemur	septentrionalis	Lepilemur septentrionalis	Lepilemur_septentrionalis_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0			0.75	0.75	0.8	0.75	0.75	0.75577	NA	
+Primates	Lepilemur	tymerlachsoni	Lepilemur tymerlachsoni	Lepilemur_tymerlachsoni_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Lepilemur	wrightae	Lepilemur wrightae	Lepilemur_wrightae_Centroid	Megaladapidae	Lepilemur	Lepilemuridae	1	1	0	0	0	0	1	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Megaladapis	edwardsi	Megaladapis edwardsi	Megaladapis_edwardsi_Centroid	Megaladapidae	Megaladapis	Megaladapidae	1	1	0	0	0	0	1	0	pictures, acute longitudinal, chalicothere score		85	NA	85	NA	NA	NA	NA	
+Primates	Megaladapis	grandidieri	Megaladapis grandidieri	Megaladapis_grandidieri_Centroid	Megaladapidae	Megaladapis	Megaladapidae	1	1	0	0	0	0	1	0	pictures, acute longitudinal, chalicothere score		74	NA	74	NA	NA	NA	NA	
+Primates	Megaladapis	madagascariensis	Megaladapis madagascariensis	Megaladapis_madagascariensis_Centroid	Megaladapidae	Megaladapis	Megaladapidae	1	1	0	0	0	0	1	0	pictures, acute longitudinal, chalicothere score		46.5	NA	46.5	NA	NA	NA	NA	
+Primates	Archaeoindris	fontoynonti	Archaeoindris fontoynonti	Archaeoindris_fontoynonti_Centroid	Palaeopropithecidae	Archaeoindris	Palaeopropithecidae	1	1	0	0	0	0	1	0	pictures, calicothere score		160	NA	160	NA	NA	NA	NA	
+Primates	Babakotia	radofilai	Babakotia radofilai	Babakotia_radofilai_Centroid	Palaeopropithecidae	Babakotia	Palaeopropithecidae	1	1	0	0	0	0	1	0	pictures, calicothere score, uncertain		21	NA	21	NA	NA	NA	NA	
+Primates	Mesopropithecus	globiceps	Mesopropithecus globiceps	Mesopropithecus_globiceps_Centroid	Palaeopropithecidae	Mesopropithecus	Palaeopropithecidae	1	1	0	0	0	0	1	0	by family		11	NA	11	NA	NA	NA	NA	
+Primates	Mesopropithecus	pithecoides	Mesopropithecus pithecoides	Mesopropithecus_pithecoides_Centroid	Palaeopropithecidae	Mesopropithecus	Palaeopropithecidae	1	1	0	0	0	0	1	0	by family		14	NA	14	NA	NA	NA	NA	
+Primates	Palaeopropithecus	ingens	Palaeopropithecus ingens	Palaeopropithecus_ingens_Centroid	Palaeopropithecidae	Palaeopropithecus	Palaeopropithecidae	1	1	0	0	0	0	1	0	pictures, uncertain		42	NA	42	NA	NA	NA	NA	
+Primates	Palaeopropithecus	maximus	Palaeopropithecus maximus	Palaeopropithecus_maximus_Centroid	Palaeopropithecidae	Palaeopropithecus	Palaeopropithecidae	1	1	0	0	0	0	1	0	pictures, uncertain		46	NA	46	NA	NA	NA	NA	
+Primates	Antillothrix	bernensis	Antillothrix bernensis	Antillothrix_bernensis_Centroid	Pitheciidae	Antillothrix	Pitheciidae	1	0	0	0	0	1	0	0	by family		4.6	NA	4.6	NA	NA	NA	NA	
+Primates	Cacajao	calvus	Cacajao calvus	Cacajao_calvus_Centroid	Pitheciidae	Cacajao	Pitheciidae	1	0	0	0	0	1	0	0			3.2	3.2	5.8	3.17	3.898	3.42104	NA	
+Primates	Cacajao	hosomi	Cacajao hosomi	Cacajao_hosomi_Centroid	Pitheciidae	Cacajao	Pitheciidae	1	0	0	0	0	1	0	0	by genus		3.1	NA	3.1	NA	NA	NA	NA	
+Primates	Callicebus	aureipalatii	Callicebus aureipalatii	Callicebus_aureipalatii_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Callicebus	baptista	Callicebus baptista	Callicebus_baptista_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.95	0.95	1	0.95	NA	NA	NA	
+Primates	Callicebus	barbarabrownae	Callicebus barbarabrownae	Callicebus_barbarabrownae_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1	1	1.2	1	NA	NA	NA	
+Primates	Callicebus	bernhardi	Callicebus bernhardi	Callicebus_bernhardi_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.95	0.95	0.9	0.95	NA	NA	NA	
+Primates	Callicebus	brunneus	Callicebus brunneus	Callicebus_brunneus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.83	0.83	1	0.83	0.9025	0.85084	NA	
+Primates	Callicebus	caligatus	Callicebus caligatus	Callicebus_caligatus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.88	0.88	1	0.88	0.94	0.9924	NA	
+Primates	Callicebus	caquetensis	Callicebus caquetensis	Callicebus_caquetensis_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0	by genus		0.9	NA	0.9	NA	NA	NA	NA	
+Primates	Callicebus	cinerascens	Callicebus cinerascens	Callicebus_cinerascens_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.74	0.74	1	0.74	0.996	0.9924	NA	
+Primates	Callicebus	coimbrai	Callicebus coimbrai	Callicebus_coimbrai_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.02	1.02	1.2	1.02	NA	NA	NA	
+Primates	Callicebus	cupreus	Callicebus cupreus	Callicebus_cupreus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.12	1.12	0.9	1.12	1.18	1.11702	NA	
+Primates	Callicebus	discolor	Callicebus discolor	Callicebus_discolor_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1	1	0.9	1	NA	NA	NA	
+Primates	Callicebus	donacophilus	Callicebus donacophilus	Callicebus_donacophilus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.95	0.95	0.8	0.95	0.8355	0.89767	NA	
+Primates	Callicebus	dubius	Callicebus dubius	Callicebus_dubius_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1	1	1	1	0.996	0.9924	NA	
+Primates	Callicebus	hoffmannsi	Callicebus hoffmannsi	Callicebus_hoffmannsi_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.92	0.92	1	0.92	1.041	1.06761	NA	
+Primates	Callicebus	lucifer	Callicebus lucifer	Callicebus_lucifer_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.5	1.5	1.3	1.5	NA	NA	NA	
+Primates	Callicebus	lugens	Callicebus lugens	Callicebus_lugens_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.4	1.4	1.2	1.4	NA	NA	NA	
+Primates	Callicebus	medemi	Callicebus medemi	Callicebus_medemi_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1	1	1.3	1	NA	NA	NA	
+Primates	Callicebus	melanochir	Callicebus melanochir	Callicebus_melanochir_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.37	1.37	1.3	1.37	NA	NA	NA	
+Primates	Callicebus	modestus	Callicebus modestus	Callicebus_modestus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.992	0.992	1	0.992	0.996	0.9924	NA	
+Primates	Callicebus	moloch	Callicebus moloch	Callicebus_moloch_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.95	0.95	0.9	0.95	0.955	0.95813	0.68	
+Primates	Callicebus	nigrifrons	Callicebus nigrifrons	Callicebus_nigrifrons_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.3	1.3	1.2	1.3	NA	NA	NA	
+Primates	Callicebus	oenanthe	Callicebus oenanthe	Callicebus_oenanthe_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.992	0.992	1	0.992	0.996	0.9924	NA	
+Primates	Callicebus	olallae	Callicebus olallae	Callicebus_olallae_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.992	0.992	1	0.992	0.996	0.9924	NA	
+Primates	Callicebus	ornatus	Callicebus ornatus	Callicebus_ornatus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1	1	0.8	1	NA	NA	NA	
+Primates	Callicebus	pallescens	Callicebus pallescens	Callicebus_pallescens_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1	1	0.8	1	NA	NA	NA	
+Primates	Callicebus	personatus	Callicebus personatus	Callicebus_personatus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.31	1.31	1.4	1.31	1.31	1.3908	NA	
+Primates	Callicebus	purinus	Callicebus purinus	Callicebus_purinus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.3	1.3	1.3	1.3	1.4	NA	NA	
+Primates	Callicebus	regulus	Callicebus regulus	Callicebus_regulus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.3	1.3	1.3	1.3	NA	NA	NA	
+Primates	Callicebus	stephennashi	Callicebus stephennashi	Callicebus_stephennashi_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			0.725	0.725	0.7	0.725	NA	NA	NA	
+Primates	Callicebus	torquatus	Callicebus torquatus	Callicebus_torquatus_Centroid	Pitheciidae	Callicebus	Pitheciidae	1	0	0	0	0	1	0	0			1.05	1.05	1	1.05	1.15	1.20957	1.2	
+Primates	Chiropotes	albinasus	Chiropotes albinasus	Chiropotes_albinasus_Centroid	Pitheciidae	Chiropotes	Pitheciidae	1	0	0	0	0	1	0	0			2.82	2.82	2.9	2.82	2.8	2.79321	2.847	
+Primates	Chiropotes	chiropotes	Chiropotes chiropotes	Chiropotes_chiropotes_Centroid	Pitheciidae	Chiropotes	Pitheciidae	1	0	0	0	0	1	0	0			3	3	3.2	3	NA	NA	NA	
+Primates	Chiropotes	satanas	Chiropotes satanas	Chiropotes_satanas_Centroid	Pitheciidae	Chiropotes	Pitheciidae	1	0	0	0	0	1	0	0			2.89	2.89	3	2.89	2.95	2.96727	2.986	
+Primates	Chiropotes	utahickae	Chiropotes utahickae	Chiropotes_utahickae_Centroid	Pitheciidae	Chiropotes	Pitheciidae	1	0	0	0	0	1	0	0			2.95	2.95	2.8	2.95	NA	NA	NA	
+Primates	Insulacebus	toussaintiana	Insulacebus toussaintiana	Insulacebus_toussaintiana_Centroid	Pitheciidae	Insulacebus	Pitheciidae	1	0	0	0	0	1	0	0	by family		4.8	NA	4.8	NA	NA	NA	NA	
+Primates	Pithecia	aequatorialis	Pithecia aequatorialis	Pithecia_aequatorialis_Centroid	Pitheciidae	Pithecia	Pitheciidae	1	0	0	0	0	1	0	0			2.25	2.25	2.2	2.25	1.85	2.37591	NA	
+Primates	Pithecia	albicans	Pithecia albicans	Pithecia_albicans_Centroid	Pitheciidae	Pithecia	Pitheciidae	1	0	0	0	0	1	0	0			3	3	2.8	3	2.409	2.80007	NA	
+Primates	Pithecia	chrysocephala	Pithecia chrysocephala	Pithecia_chrysocephala_Centroid	Pitheciidae	Pithecia	Pitheciidae	1	0	0	0	0	1	0	0	by genus		1.9	NA	1.9	NA	NA	NA	NA	
+Primates	Pithecia	milleri	Pithecia milleri	Pithecia_milleri_Centroid	Pitheciidae	Pithecia	Pitheciidae	1	0	0	0	0	1	0	0	by genus		1.5	NA	1.5	NA	NA	NA	NA	
+Primates	Pithecia	pithecia	Pithecia pithecia	Pithecia_pithecia_Centroid	Pitheciidae	Pithecia	Pitheciidae	1	0	0	0	0	1	0	0			1.64	1.64	1.4	1.64	1.6	1.66719	1.809	
+Primates	Pithecia	vanzolinii	Pithecia vanzolinii	Pithecia_vanzolinii_Centroid	Pitheciidae	Pithecia	Pitheciidae	1	0	0	0	0	1	0	0	by genus		2.2	NA	2.2	NA	NA	NA	NA	
+Primates	Xenothrix	mcgregori	Xenothrix mcgregori	Xenothrix_mcgregori_Centroid	Pitheciidae	Xenothrix	Pitheciidae	1	0	0	0	0	1	0	0	by family		5.7	NA	5.7	NA	NA	NA	NA	
+Primates	Tarsius	bancanus	Tarsius bancanus	Tarsius_bancanus_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.123	0.123	0.1	0.123	0.1215	0.11439	NA	
+Primates	Tarsius	dentatus	Tarsius dentatus	Tarsius_dentatus_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.106	0.106	0.1	0.106	0.103	0.11042	NA	
+Primates	Tarsius	lariang	Tarsius lariang	Tarsius_lariang_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0	by genus		0.1	NA	0.1	NA	NA	NA	NA	
+Primates	Tarsius	pelengensis	Tarsius pelengensis	Tarsius_pelengensis_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.165	0.165	0.2	0.165	0.1675	0.165	NA	
+Primates	Tarsius	pumilus	Tarsius pumilus	Tarsius_pumilus_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.123	0.123	NA	0.123	0.1225	NA	NA	
+Primates	Tarsius	sangirensis	Tarsius sangirensis	Tarsius_sangirensis_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.165	0.165	0.2	0.165	0.165	0.165	NA	
+Primates	Tarsius	syrichta	Tarsius syrichta	Tarsius_syrichta_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.113	0.113	0.1	0.113	0.1275	0.11591	NA	
+Primates	Tarsius	tarsier	Tarsius tarsier	Tarsius_tarsier_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0			0.18	0.18	0.2	0.18	0.14	0.16804	NA	
+Primates	Tarsius	tumpara	Tarsius tumpara	Tarsius_tumpara_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0	by genus		0.1	NA	0.1	NA	NA	NA	NA	
+Primates	Tarsius	wallacei	Tarsius wallacei	Tarsius_wallacei_Centroid	Tarsiidae	Tarsius	Tarsiidae	1	0	0	0	0	1	0	0	by genus		0.1	NA	0.1	NA	NA	NA	NA	
+Proboscidea	Elephas	antiquus	Elephas antiquus	Elephas_antiquus_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		13000	13000	13000	NA	NA	NA	NA	
+Proboscidea	Elephas	cypriotes	Elephas cypriotes	Elephas_cypriotes_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		200	200	200	NA	NA	NA	NA	
+Proboscidea	Elephas	iolensis	Elephas iolensis	Elephas_iolensis_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		6500	6500	6500	NA	NA	NA	NA	
+Proboscidea	Elephas	maximus	Elephas maximus	Elephas_maximus_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	old scores		3500	3500	3160	4000	3605	3269.79434	1810	
+Proboscidea	Elephas	mnaidriensis	Elephas mnaidriensis	Elephas_mnaidriensis_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		1100	1100	1102	NA	NA	NA	NA	
+Proboscidea	Elephas	namadicus	Elephas namadicus	Elephas_namadicus_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		13000	13000	13000	NA	NA	NA	NA	
+Proboscidea	Elephas	naumanii	Elephas naumanii	Elephas_naumanii_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		2230	2230	2228.4	NA	NA	NA	NA	
+Proboscidea	Elephas	tiliensis	Elephas tiliensis	Elephas_tiliensis_Centroid	Elephantidae	Elephas	Elephantidae	3	0	0	0	1	0	0	1	from pictures		810	810	809	NA	NA	NA	NA	
+Proboscidea	Loxodonta	africana	Loxodonta africana	Loxodonta_africana_Centroid	Elephantidae	Loxodonta	Elephantidae	3	0	0	0	1	0	0	1	old scores		4200	4200	4400	4200	4000	3824.53993	2860	
+Proboscidea	Mammuthus	columbi	Mammuthus columbi	Mammuthus_columbi_Centroid	Elephantidae	Mammuthus	Elephantidae	3	0	0	0	1	0	0	1	from pictures		9500	9500	9500	NA	NA	NA	NA	
+Proboscidea	Mammuthus	exilis	Mammuthus exilis	Mammuthus_exilis_Centroid	Elephantidae	Mammuthus	Elephantidae	3	0	0	0	1	0	0	1	from pictures		760	760	759	NA	NA	NA	NA	
+Proboscidea	Mammuthus	primigenius	Mammuthus primigenius	Mammuthus_primigenius_Centroid	Elephantidae	Mammuthus	Elephantidae	3	0	0	0	1	0	0	1	from pictures		6000	6000	6000	NA	NA	NA	NA	
+Proboscidea	Cuvieronius	hyodon	Cuvieronius hyodon	Cuvieronius_hyodon_Centroid	Gomphotheriidae	Cuvieronius	Gomphotheriidae	1	0	0	0	0	1	0	0	from pictures		3500	3500	6213	NA	NA	NA	NA	
+Proboscidea	Notiomastodon	platensis	Notiomastodon platensis	Notiomastodon_platensis_Centroid	Gomphotheriidae	Notiomastodon	Gomphotheriidae	1	0	0	0	0	1	0	0	from pictures		5500	5500	5500	NA	NA	NA	NA	
+Proboscidea	Mammut	americanum	Mammut americanum	Mammut_americanum_Centroid	Mammutidae	Mammut	Mammutidae	1	0	0	0	0	0	0	1	from pictures		8000	8000	8000	NA	NA	NA	NA	
+Proboscidea	Stegodon	florensis	Stegodon florensis	Stegodon_florensis_Centroid	Stegodontidae	Stegodon	Stegodontidae	1	0	0	0	0	0	0	1	from pictures		850	850	850	NA	NA	NA	NA	
+Proboscidea	Stegodon	orientalis	Stegodon orientalis	Stegodon_orientalis_Centroid	Stegodontidae	Stegodon	Stegodontidae	1	0	0	0	0	0	0	1	from pictures		2000	2000	1995.3	NA	NA	NA	NA	
+Proboscidea	Stegodon	trigonocephalus	Stegodon trigonocephalus	Stegodon_trigonocephalus_Centroid	Stegodontidae	Stegodon	Stegodontidae	1	0	0	0	0	0	0	1	from pictures		1365	1365	1365	NA	NA	NA	NA	
+Hyracoidea	Dendrohyrax	arboreus	Dendrohyrax arboreus	Dendrohyrax_arboreus_Centroid	Procaviidae	Dendrohyrax	Procaviidae	1	0	1	0	0	0	1	1	IZ+ACY-MFCopenhagen 2022		2.95	NA	2950	NA	NA	NA	NA	
+Hyracoidea	Dendrohyrax	dorsalis	Dendrohyrax dorsalis	Dendrohyrax_dorsalis_Centroid	Procaviidae	Dendrohyrax	Procaviidae	1	0	1	0	0	0	1	1	IZ+ACY-MFCopenhagen 2022		3.18	NA	3175	NA	NA	NA	NA	
+Hyracoidea	Dendrohyrax	validus	Dendrohyrax validus	Dendrohyrax_validus_Centroid	Procaviidae	Dendrohyrax	Procaviidae	1	0	1	0	0	0	1	1	IZ+ACY-MFCopenhagen 2022		2.43	NA	2430	NA	NA	NA	NA	
+Hyracoidea	Heterohyrax	brucei	Heterohyrax brucei	Heterohyrax_brucei_Centroid	Procaviidae	Heterohyrax	Procaviidae	1	0	1	0	0	0	1	1	IZ+ACY-MFCopenhagen 2022		2.63	NA	2625	NA	NA	NA	NA	
+Hyracoidea	Procavia	capensis	Procavia capensis	Procavia_capensis_Centroid	Procaviidae	Procavia	Procaviidae	2	0	1	0	0	0	1	1	IZ+ACY-MFCopenhagen 2022		3.03	NA	3030	NA	NA	NA	NA	
+Litopterna	Macrauchenia	patachonica	Macrauchenia patachonica	Macrauchenia_patachonica_Centroid	Macrauchenidae	Macrauchenia	Macrauchenidae	3	0	0	0	1	0	1	1	IZ Vienna 2018		794	NA	794405.1	NA	NA	NA	NA	
+Litopterna	Neolicaphrium	recens	Neolicaphrium recens	Neolicaphrium_recens_Centroid	Proterotheriidae	Neolicaphrium	Proterotheriidae	3	0	0	0	1	0	1	1	from pictures		47	NA	47122.2	NA	NA	NA	NA	
+Litopterna	Xenorhinotherium	bahiense	Xenorhinotherium bahiense	Xenorhinotherium_bahiense_Centroid	Macrauchenidae	Xenorhinotherium	Macrauchenidae	3	0	0	0	1	0	1	1	Lobo et al 2017		941	NA	940760.2	NA	NA	NA	NA	
+Notoungulata	Mixotoxodon	larensis	Mixotoxodon larensis	Mixotoxodon_larensis_Centroid	Toxodontidae	Mixotoxodon	Toxodontidae	3	0	0	0	1	0	0	1	from pictures		1000	NA	1000000	NA	NA	NA	NA	
+Notoungulata	Toxodon	platensis	Toxodon platensis	Toxodon_platensis_Centroid	Toxodontidae	Toxodon	Toxodontidae	3	0	0	0	1	0	0	1	from pictures		1640	NA	1642000	NA	NA	NA	NA	
+Notoungulata	Trigonodops	lopesi	Trigonodops lopesi	Trigonodops_lopesi_Centroid	Toxodontidae	Trigonodops	Toxodontidae	3	0	0	0	1	0	0	1	by family		2290	NA	2294926.7	NA	NA	NA	NA	
