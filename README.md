@@ -1,4 +1,3 @@
-# population_density
 A repository to accompany a research paper (under review):
 Žliobaitė, I. and Lawing, M. Trait-based approaches to palaeoenvironment reconstructions: what is in the community-weighted trait mean?
 
