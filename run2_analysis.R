@@ -51,11 +51,11 @@ dev.off()
 ind_trop <- which(data_sites[,'Y']< 23.4362)
 ind_trop <- intersect(ind_trop,which(data_sites[,'Y'] > (-23.4362)))
 
-pdf('fig_box_mass.pdf',width = 10, height = 7)
+pdf('plots/fig_box_mass.pdf',width = 10, height = 7)
 boxplot(mean_mass ~ prec_lim, data = data_sites)
 dev.off()
 
-pdf('fig_box_log_mass.pdf',width = 10, height = 7)
+pdf('plots/fig_box_log_mass.pdf',width = 10, height = 7)
 boxplot(mean_log_mass ~ prec_lim, data = data_sites)
 dev.off()
 
