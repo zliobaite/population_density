@@ -1,4 +1,3 @@
-# population_density
-A repository to accompany a research paper
+A repository to accompany a research paper (under review)
 
-2024 07 27
+Before running the code unzip the folder data/ISEA3H09_small/PHYLACINE_V010201.zip
